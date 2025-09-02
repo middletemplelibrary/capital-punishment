@@ -37,3 +37,21 @@ One such example given is of the 2022 “Year of botched executions”, during w
 <br><br>
 [Finley, Laura L. 2024. The Death Penalty as State Crime: Who Can Kill?. London: Routledge](https://www.taylorfrancis.com/books/mono/10.4324/9781003384137/death-penalty-state-crime-laura-finley)
 <br><br>
+
+## Richard Michael Rossi, Waiting to Die: Life on Death Row (2004)
+Lethal injection is the most common method of execution in the United States. It was first approved in Oklahoma and Texas in 1977 and was seen as a more humane method of execution than electrocution or hanging. There have however been several instances of botched executions involving the injection. The drugs are administered intravenously, and issues can arise where a vein cannot be easily located (such as when prisoners are intravenous drug users); in these cases, a scalpel is used to cut the arm or leg to find a vein, often without anaesthesia. In Waiting to Die, Rossi quotes from a New York Times article from 9th June 2000, which recounts the case of Bennie Demps, who was subjected to such a ‘cutdown’: 
+<br><br>
+“‘They butchered me back there,’ Demps said. ‘I was in a lot of pain. They cut me in the groin, they cut me in the leg, I was bleeding profusely. This is not an execution, this is murder.’”
+[Rossi, Richard Michael. 2004. Waiting to Die: Life on Death Row. London: Vision Paperbacks](https://archive.org/details/waitingtodielife0000ross)
+<br><br>
+
+## William Schabas, The Death Penalty as Cruel Treatment and Torture: Capital Punishment Challenged in the World's Courts (1996)
+In one section of this book, Schabas discusses ways in which those condemned to the death penalty have attempted to hasten their eventual fate. Socrates famously asked to be brought poison before his execution, believing that he would “become ridiculous in my own eyes for clinging to life” any longer. The UK’s Royal Commission on Capital Punishment considered offering prisoners a lethal dose of poison the night before their executions, but concluded that this would not be appropriate:
+<br><br>
+“The purpose of capital punishment is not just to rid the community of an unwanted member; it is to mark the community’s denunciation of the gravest of all crimes by subjecting the perpetrator, in the form of law, to the severest of all punishments.”
+<br><br>
+[Schabas, W. 1996. The Death Penalty as Cruel Treatment and Torture: Capital Punishment Challenged in the World's Courts. London: Vision Paperbacks](https://archive.org/details/waitingtodielife0000ross)
+<param ve-image 
+      url="https://github.com/user-attachments/assets/107dbf02-5ddf-4929-9bf2-aeed08cf9345"
+       license="CC0 1.0">
+<br><br>
