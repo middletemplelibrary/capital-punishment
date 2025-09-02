@@ -19,4 +19,4 @@ The death penalty was effectively abolished in Great Britain by the Murder (Abol
 <br><br>
 While the 1965 Act passed in the House of Commons by 355 votes to 170, public opinion was not in favour of abolition and remains divided on the issue to this day. As Sir Julian Knowles discusses in this report, Parliament’s ultimate decision to abolish it was the result of a confluence of factors including several high-profile, controversial cases, and a Labour government that leaned more abolitionist than its opposition and the public itself.
 <br><br>
-[Knowles, Julian B. 2015. The Abolition of the Death Penalty in the United Kingdom: How it Happened and Why it Still Matters. London:](https://www.deathpenaltyproject.org/wp-content/uploads/2017/12/DPP-50-Years-on-pp1-68-1.pdf)
+[Knowles, Julian B. 2015. The Abolition of the Death Penalty in the United Kingdom: How it Happened and Why it Still Matters. London: The Death Penalty Project](https://www.deathpenaltyproject.org/wp-content/uploads/2017/12/DPP-50-Years-on-pp1-68-1.pdf)
