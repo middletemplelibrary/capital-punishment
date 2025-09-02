@@ -4,7 +4,7 @@
        banner="https://github.com/user-attachments/assets/c9952005-bb25-46ae-ab7b-389ec5c68c11)="
        layout="vertical">
 
-## Introduction: ‘The Bloody Code’: Capital Punishment in Law and Art
+# Introduction: ‘The Bloody Code’: Capital Punishment in Law and Art
 This exhibition was curated in collaboration with Art Responders, a community arts organisation that develops free public exhibitions on social justice and human rights themes. The curators are Daryl Stenvoll-Wells, the founding director of Art Responders, and Lauren Cummings, Assistant Librarian at Middle Temple Library, assisted by Dr. Renae Satterley, Head of the Library. 
 <br><br>
 Though its roots go back much further, the 18th century marked the beginning of developed societies’ drive towards universal abolition of the death penalty. Since then, most countries have moved in this direction, while others have instead reinforced capital punishment via new methods and justifications. While this year marks the 60th anniversary of the UK’s Murder (Abolition of the Death Penalty) Act 1965, the British use of capital punishment stretches back centuries. The history of capital punishment law lays bare persistent tensions within the nation’s political institutions and social structures and reflects larger historical shifts worldwide.
@@ -85,3 +85,70 @@ The case caused a sensation due to Malcolm’s sex and age – she was just 22 a
 
 ## George Ryley Scott, The History of Capital Punishment (1950)
 Robert Johnston was executed in Edinburgh in 1818. Johnston had been convicted of robbery and his hanging in Edinburgh’s Lawnmarket was botched: the executioner miscalculated the length of the rope and the table on which Johnston was standing did not break. The watching crowd were so incensed by the sight of Johnston’s struggling that they threw stones at the police and cut him down. When order was restored after the arrival of the military, Johnston was executed at the same place in a similarly brutal manner: the Newgate Calendar describes “his face uncovered, and one of his hands broke loose from the cords […] his fingers convulsively twisting in the noose.”
+<br><br>
+
+# International Practices and Perspectives
+Despite indications that capital punishment’s flaws outweigh advocates’ evidence in favour of the practice, executions continue in around 55 nations around the world. Most executions occur in states notorious for human rights abuses, such as China, Saudi Arabia, and Iran. These countries are known for targeting ethnic minorities, state critics and protestors, often rendering capital verdicts for non-violent crimes.
+<br><br>
+However, the United States and Japan are also among the 55 remaining nations that continue to carry out executions. The United States is alone among Western democracies in its continued practice of the death penalty, with over two thousand prisoners currently on death row.  Contemporary theorists have claimed that the death penalty is more easily reinforced in societies with pronounced social and economic inequality.  Societies fractured by social distance and weakened communal bonds provide fertile ground for repressive penal policies, including long-term incarceration and capital punishment.
+<br><br>
+One of the volumes here discusses Norway’s refusal to re-institute the death penalty after a horrific 2011 crime by an anti-immigrant extremist.  The country’s steadfast commitment to prevention and rehabilitation —and its resistance to retributive impulses — are seen by some as naïve and by others as admirable. Reactions to this punishment could serve as a bellwether for public attitudes toward the death penalty worldwide.
+<br><br>
+
+## Lilli Scherdin ed., Capital Punishment: A Hazard to a Sustainable Criminal Justice System? (2014)
+The United Nations General Assembly has adopted several resolutions calling for an international moratorium on capital punishment since 2007. These resolutions are not binding, and call on states that retain the death penalty to suspend its use with a view to abolition. This table lists the states that voted against the fourth such resolution in 2012. Since then there have been six further resolutions; the most recent in 2024 saw 32 countries vote against the resolution, a reduction of 10 from 2012.
+<br><br>
+[Scherdin ed, L. 2014. Capitol Punishment: A Hazard to a Sustainable Criminal Justice System? Chicago: University of Chicago Press](https://www.taylorfrancis.com/books/edit/10.4324/9781315570808/capital-punishment-lill-scherdin)
+<br><br>
+
+## Rita James Simon, A Comparative Analysis of Capital Punishment (2002)
+One argument for capital punishment is that it acts as a deterrent to the most serious crimes like murder. Several studies have attempted to determine whether this is the case, but problems arise when comparing countries with and without the death penalty as wider socio-economic factors may strongly influence crime rates and often cannot be directly compared. Generally, though, studies have not shown capital punishment to be an effective deterrent. These tables from a 1983 study present the homicide rates in 14 different jurisdictions before and after the abolition of the death penalty; they do not show a consistent effect across the countries.
+<br><br>
+[Simon, R.J. 2002.  A Comparative Analysis of Capital Punishment. London: Bloomsbury Academic.](https://books.google.co.uk/books/about/A_Comparative_Analysis_of_Capital_Punish.html?id=SpZhEQAAQBAJ&redir_esc=y)
+<br><br>
+
+## Edward Fitzgerald CBE KC and Sir Keir Starmer KC, A Guide to Sentencing in Capital Cases (2007)
+The Death Penalty Project is a legal action charity that provides free legal representation to people facing the death penalty around the world. Since its establishment in 1990 it has fought several significant cases that have contributed to the abolition of capital punishment in Caribbean countries. This document, written for the Project in 2007, serves as a practical sentencing guide for judges and lawyers in jurisdictions that retain the death penalty, including where it is no longer a mandatory sentence.
+<br><br>
+<param ve-image 
+      url="https://github.com/user-attachments/assets/3a178a75-435c-47d0-a2b1-9d74f48a9dcd"
+       attribution="Crown Copyright"
+       license="CC BY 3.0">
+<br><br>
+
+## Lord David Pannick KC, Judicial Review of the Death Penalty (1982)
+In some countries where the death penalty is retained, it is imposed as a mandatory punishment for certain crimes. This prevents judges from taking into account any mitigating circumstances when sentencing. Pannick uses examples from Singapore and Pakistan to argue that mandatory sentencing conflicts with the rights guaranteed by a written constitution, as it fails to ensure fair and reasonable treatment under the law.
+<br><br>
+<param ve-image 
+      url="https://github.com/user-attachments/assets/7dce2025-4e37-4da1-9012-847454fcc185"
+       license="Not to be copied, saved or stored">
+<br><br>
+
+## Mai Sato & Paul Bacon, The Public Opinion Myth: Why Japan Retains the Death Penalty (2015)
+In June 2025, serial killer Takahiro Shiraishi was hanged in Japan, marking the country’s first execution in three years. Conditions on death row in Japan have been heavily criticised by campaigners, as inmates are kept in solitary confinement and are typically only given a few hours’ notice of their execution. The Japanese government surveys the public on the topic every five years, with the most recently available results from March 2025 finding that 83.1% of respondents find the death penalty to be “unavoidable”. In this report, however, Sato and Bacon argue that the public form their opinions on the topic based on limited information and conclude that abolition would be embraced if the government were to change its stance.
+<br><br>
+[Sato, M. and Bacon, P. 2002. The Public Opinion Myth: Why Japan Retains the Death Penalty. London: The Death Penalty Project.](https://www.deathpenaltyproject.org/wp-content/uploads/2017/12/The-Public-Opinion-Myth.pdf)
+
+# Disproportionality, Diminished Responsibility, & Other Miscarriages of Justice
+The history of death penalty legislation reveals numerous undeniable injustices, often rooted in the social prejudices and flawed penal systems of their time. In 18th century Britain, political opponents of the ruling class and people of lower social status were disproportionately targeted for the death penalty, while the wealthy were often able to escape judgement for similar crimes.
+<br><br>
+In the United States, South Africa, and other nations with histories of codified racial discrimination, racial minorities have been far more likely to receive capital verdicts. Globally, women perceived as violating established norms of gendered behaviour are more likely to receive the death penalty, even in cases with evidence of gender-based violence such as domestic abuse. Although individuals with mental illness may struggle to understand their rights or the consequences of their pleas, the US has no official ban on their execution, and rates of serious mental illness and intellectual disabilities are higher among people on death row than in the general population.
+<br><br>
+Many stories and statistics in the Library’s collections document known miscarriages of justice, reinforcing the central argument against capital punishment: that the death penalty exposes societies’ systemic injustices more than it functions as a direct response to, or deterrent against, crime.
+<br><br>
+
+## Saundra D. Westervelt and John A. Humphrey eds., Wrongly Convicted: Perspectives on Failed Justice (2002)
+This table presents the numbers of wrongful convictions found at retrial in the United States (at the time of publication). While clear variations can be seen between states, almost one quarter of defendants in capital cases sent for retrial were then found not guilty, highlighting the clear and significant risk that an innocent person could be executed. 
+<br><br>
+[Westervelt, S.D. and Humphrey, S.A. eds. 2002. Wrongly Convicted: Perspectives on Failed Justice. New Brunswick: Rutgers University Press.](https://archive.org/details/wronglyconvicted00newb)
+<br><br>
+
+# Hugo Bedau and Michael Radelet, Miscarriages of Justice in Potentially Capital Cases (1987)
+This article from the Stanford Law Review presents 350 capital and potentially capital cases from the United States in which the defendants (many of whom had been sentenced to death) were later found to be innocent. The sample cases presented on these pages include an instance of inadequate legal representation for a defendant who could not speak English, and several cases that illustrate the role racial politics can play in capital verdicts.
+<br><br>
+
+# Helen Prejean, The Death of Innocents: an Eyewitness Account of Wrongful Executions (2005)
+Sister Helen Prejean is a Catholic religious nun who has been working with inmates on Death Row since the early 1980s. In The Death of Innocents, Prejean focuses on the cases of Joseph Roger O’Dell and Dobie Gillis Williams, both of whom she accompanied to their executions – and both of whom she believes to have been innocent. Prejean uses withheld evidence to argue their innocence, demonstrates the roles played by factors like race, poverty, politicking and publicity in capital convictions, and ultimately challenges the moral core of the death penalty itself by asking how we can ever justify the execution of the innocent
+<br><br>
+[Prejean, H. 2005. The Death of Innocents: an Eyewitness Account of Wrongful Executions. Westervelt, S.D. and Humphrey, S.A. eds. 2002. Wrongly Convicted: Perspectives on Failed Justice. New Brunswick: Rutgers University Press.](https://archive.org/details/wronglyconvicted00newb)
+<br><br>
