@@ -20,3 +20,20 @@ The death penalty was effectively abolished in Great Britain by the Murder (Abol
 While the 1965 Act passed in the House of Commons by 355 votes to 170, public opinion was not in favour of abolition and remains divided on the issue to this day. As Sir Julian Knowles discusses in this report, Parliament’s ultimate decision to abolish it was the result of a confluence of factors including several high-profile, controversial cases, and a Labour government that leaned more abolitionist than its opposition and the public itself.
 <br><br>
 [Knowles, Julian B. 2015. The Abolition of the Death Penalty in the United Kingdom: How it Happened and Why it Still Matters. London: The Death Penalty Project](https://www.deathpenaltyproject.org/wp-content/uploads/2017/12/DPP-50-Years-on-pp1-68-1.pdf)
+<br><br>
+
+## William Schabas, The Abolition of the Death Penalty in International Law (3rd ed., 2002)
+William Schabas is a Canadian academic who specialises in the fields of international criminal and human rights law. In this acclaimed study, he outlines the progress in international law towards abolition, discussing its treatment in international criminal law, human rights law and the United Nations human rights system.  
+<br><br>
+In Appendix II of the book, Schabas presents two articles from the International Covenant on Civil and Political Rights: Article 6, which states that “Every human being has the inherent right to life”, and Article 14, covering the right to a fair and public trial. Despite declaring the inherent right to life, Article 6 does not prohibit the death penalty entirely. It restricts its use to “only for the most serious crimes […] pursuant to a final judgment rendered by a competent court” and forbids its use against children and pregnant women. As of July 2025, 24 states have not become party to the treaty, while 6 have signed but not yet ratified it.
+<br><br>
+[Schabas, William A. 2009. The Abolition of the Death Penalty in International Law. Cambridge: Cambridge University Press](https://www.cambridge.org/core/books/abolition-of-the-death-penalty-in-international-law/28291346A4A68C4CA2097E813007EC3A)
+<br><br>
+
+## Laura Finley, The Death Penalty as State Crime: Who Can Kill? (2024)
+This book offers a new academic perspective on the death penalty: that it is a crime committed by states against their citizens, as it infringes on their human rights. Focusing on the United States, Finley argues that the state is aware of flaws in the process such as racial bias, inadequate representation and arbitrariness, and that torturous methods are used in the application of the death penalty. 
+<br><br>
+One such example given is of the 2022 “Year of botched executions”, during which one in three executions in the United States was mishandled. In one case, that of Joe N. James in Alabama, prison staff performing the lethal injection attempted 11 times to inset an IV into his veins, causing serious bruising. An autopsy funded by the non-profit organisation Reprieve US showed an incision indicating that his arm had eventually been cut to expose the vein. It took three hours for James to die.
+<br><br>
+[Finley, Laura L. 2024. The Death Penalty as State Crime: Who Can Kill?. London: Routledge](https://www.taylorfrancis.com/books/mono/10.4324/9781003384137/death-penalty-state-crime-laura-finley)
+<br><br>
