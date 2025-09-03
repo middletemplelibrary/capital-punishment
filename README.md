@@ -143,12 +143,93 @@ This table presents the numbers of wrongful convictions found at retrial in the 
 [Westervelt, S.D. and Humphrey, S.A. eds. 2002. Wrongly Convicted: Perspectives on Failed Justice. New Brunswick: Rutgers University Press.](https://archive.org/details/wronglyconvicted00newb)
 <br><br>
 
-# Hugo Bedau and Michael Radelet, Miscarriages of Justice in Potentially Capital Cases (1987)
+## Hugo Bedau and Michael Radelet, Miscarriages of Justice in Potentially Capital Cases (1987)
 This article from the Stanford Law Review presents 350 capital and potentially capital cases from the United States in which the defendants (many of whom had been sentenced to death) were later found to be innocent. The sample cases presented on these pages include an instance of inadequate legal representation for a defendant who could not speak English, and several cases that illustrate the role racial politics can play in capital verdicts.
 <br><br>
 
-# Helen Prejean, The Death of Innocents: an Eyewitness Account of Wrongful Executions (2005)
+## Helen Prejean, The Death of Innocents: an Eyewitness Account of Wrongful Executions (2005)
 Sister Helen Prejean is a Catholic religious nun who has been working with inmates on Death Row since the early 1980s. In The Death of Innocents, Prejean focuses on the cases of Joseph Roger O’Dell and Dobie Gillis Williams, both of whom she accompanied to their executions – and both of whom she believes to have been innocent. Prejean uses withheld evidence to argue their innocence, demonstrates the roles played by factors like race, poverty, politicking and publicity in capital convictions, and ultimately challenges the moral core of the death penalty itself by asking how we can ever justify the execution of the innocent
 <br><br>
 [Prejean, H. 2005. The Death of Innocents: an Eyewitness Account of Wrongful Executions. Westervelt, S.D. and Humphrey, S.A. eds. 2002. Wrongly Convicted: Perspectives on Failed Justice. New Brunswick: Rutgers University Press.](https://archive.org/details/wronglyconvicted00newb)
 <br><br>
+
+## Margaret Edds, An Expendable Man: The Near Execution of Earl Washington Jr. (2003)
+Earl Washington Jr spent 18 years in prison, 9 of those on Death Row, for the rape and murder of a 19-year-old woman in Virginia. In February 2001, he was finally freed, having been pardoned in 2000. Williams was initially convicted based on confessions to police that his legal team argued were inconsistent and the words of a man easily led by police to confess, as he is intellectually disabled.
+After years of attempts to appeal, new tests found no trace of Washington’s DNA on the forensic evidence from the crime scene. Edds uses Washington’s case to demonstrate the potential for miscarriages of justice in the capital punishment system, arguing that many more “expendable men” – those living on the margins of society – are likely to have been wrongly prosecuted and executed over the years.
+<br><br>
+
+## Michael L. Perlin, Mental Disability and the Death Penalty: The Shame of the States (2013)
+In Chapter 4 of this book Perlin argues that instead of being considered a mitigating factor by jurors and judges, societal prejudice and lack of understanding of severe mental illness can lead to it being used against a defendant. 
+Organisations such as the American Bar Association and the American Psychiatric Association have called for a ban on the death penalty for defendants with significant mental illness, and a 2014 poll found that Americans did not favour the use of the death penalty in such cases.  While some defendants may be considered mentally incompetent, such that they are unable to grasp the gravity and consequences of their actions, it is difficult to determine the level at which severe mental illness tips into this category. As society’s understanding of mental illness continues to evolve, it remains to be seen whether the attitude towards the death penalty in such cases will too. 
+<br><br>
+
+## Robert Vicat Turrell, White Mercy: A Study of the Death Penalty in South Africa (2004)
+White Mercy is a historical and contemporary study of capital punishment in South Africa that focuses on official acts of mercy and reprieves. Through an examination of statistics, testimony and judges’ reports, Turrell explores how race and sex influenced the outcomes of death penalty cases. Women were often granted reprieves due to the belief that they were the ‘weaker sex’, while conversely, black South Africans were not extended the same mercy despite being seen as the ‘weaker race’. This concept of race also saw several white South Africans executed, because they were believed to be “degenerates” who had the so-called characteristics of the ‘weaker race’.
+<br><br>
+
+## The Newgate Calendar, Vol IV
+William Dodd was a writer and Anglican clergyman who lived an extravagant lifestyle. His attempts to continue his fashionable life in London left him in serious financial trouble, and in February 1777 he forged a bond in the name of a friend and ex-pupil, the Earl of Chesterfield, to clear his debt. The Earl discovered the forgery, and Dodd was arrested and sentenced to death. 
+A petition to save Dodd from execution is said to have been signed by so many people that it reached 37 pages. His supporters wrote letters to newspapers, and the writer Samuel Johnson and the Lord Mayor of the City of London attempted to secure clemency for him. Ultimately this was denied, and Dodd was hanged on 27th June 1777. The perceived harshness of his sentence contributed to a shift in public opinion regarding the death penalty, and forgery was eventually removed as a capital offence by the Forgery, Abolition of Punishment of Death Act 1832. 
+<br><br>
+
+## Brad Williams, Due Process: The Story of Criminal Lawyer George T. Davis and his Thirty-Year Battle Against Capital Punishment (1961)
+George T. Davis was a prominent defence lawyer based in San Francisco. Over his long career his clients included the German industrialist Alfred Krupp, convicted of war crimes at the Nuremberg trials; the Filipino opposition leader Ninoy Aquino; and the televangelist and convicted fraudster Jim Bakker. Davis worked on over 200 death penalty cases and was a committed abolitionist. He died in 2002 aged 98. In the author’s note to Due Process, Brad Williams writes:
+<br><br>
+“To Davis, an execution is a legal murder […] His dedication to this belief can perhaps best be shown by the fact that never has a person charged with a capital offense been refused counsel by Davis, even though this has often meant travelling from one end of the world to the other, more often than not at Davis’ own personal expense.”
+<br><br>
+
+## Don Lasseter, Perfect Justice (2004)
+Don Lasseter wrote Perfect Justice with Judge Donald A. McCartin, a California Superior Court judge who became known as ‘the hanging judge of Orange County’ and condemned 9 convicted murderers to death. Perfect Justice presents his memoirs of those cases and his time as a judge, never shying away from outlining his strong opinions or his habit of making racially insensitive statements. 
+<br><br>
+In his retirement, Cartin’s view on capital punishment shifted, and he wrote articles in the Orange County Register and the Los Angeles Times expressing his new opinion: that the death penalty should be abolished. While he still believed that murderers deserved to be executed, he felt that the process had become so expensive and inefficient that it constituted an enormous waste of taxpayers’ money, and that the length of time prisoners could spend on death row pursuing appeals led to serious emotional torment for their victims’ families. In addition, he wrote:
+<br><br>
+“Human error, inequities, bias¬es and per¬son¬al ide¬olo¬gies cre¬ate the prob¬lems that have caused my rejec¬tion of the death penal¬ty. Because these frail¬ties will not mag¬i-cal¬ly van¬ish, cap¬i¬tal pun¬ish¬ment can¬not be imple¬ment¬ed with any sense of bal¬ance or fair¬ness, thus it must be abolished.”
+<br><br>
+
+## Albert Pierrepoint, Executioner: Pierrepoint (1974)
+Albert Pierrepoint was an English hangman who carried out over 400 executions. As early as his school days he had expressed a wish to become an executioner like his father Henry and uncle Thomas. He carried out his first execution as his uncle’s assistant in 1932, and by 1950 Pierrepoint had become Britain’s most experienced executioner, in part due to his role in executing German spies and war criminals during the Second World War. In the early 1950s he carried out three controversial executions that contributed to Parliament’s decision to abolish capital punishment: those of Timothy Evans, Derek Bentley and Ruth Ellis. Reflecting on his career in this autobiography, Pierrepoint wrote:
+<br><br>
+“I do not now believe that any one of the hundreds of executions I carried out has in any way acted as a deterrent against future murder. Capital punishment, in my view, achieved nothing except revenge.”
+<br><br>
+
+## Robert J. Lifton and Greg Mitchell, Who Owns Death?: Capital Punishment, the American Conscience, and the End of Execution (2000)
+In Who Owns Death?, Lifton and Mitchell explore the opinions, feelings and motivations of those involved in the death penalty process, from death row prison wardens to the relatives of murder victims. A section on jurors is enlightening as to how their experiences affect them both during and after trials. Some jurors may believe at the beginning of a trial that they would be willing to impose capital punishment, but then experience conflicted feelings when faced with the reality of condemning the person in front of them to death. Other jurors report feeling emotionally troubled or regretful about their decisions for many years afterwards, making clear that the system of capital punishment can leave psychological scars on all involved.
+<br><br>
+
+## Alex F. Young, The Encyclopaedia of Scottish Executions, 1750-1963 (1998)
+William Burke and William Hare were an infamous pair of murderers based in 19th century Edinburgh. After selling the body of one of Hare’s lodgers to the anatomy professor Robert Knox, they turned to murder as a source of further corpses to sell. At trial, Hare was offered immunity if he would testify against Burke; Burke was found guilty and sentenced to death by hanging, while Hare was released. Burke’s execution was attended by an unruly crowd which Young estimates at 35,000. A minor riot also ensued, when members of the public attempted to attend the lecture at which Burke’s body was dissected, having been ordered to be donated to medical science. His skeleton remains at the Anatomical Museum of the University of Edinburgh.
+<br><br>
+
+## Benjamin Fleury-Steiner, Jurors’ Stories of Death: How America's Death Penalty Invests in Inequality (2004)
+Benjamin Fleury-Steiner’s academic work examines the intersection of inequality, punishment and social control. Jurors’ Stories of Death is a survey of jurors who have served in capital punishment cases, that attempts to unravel the factors that contributed to their decisions in those cases. Fleury-Steiner believes that race is a key factor in capital punishment verdicts and that jurors often fall into a “us-versus-them” pattern of thought, allowing them to retain a sense of moral superiority and justice. Here, he presents a quote from Justice Antonin Scalia that summarises what Fleury-Steiner believes is the overarching theme of death penalty verdicts: punishment for committing the ultimate crime (murder), and a desire to seek revenge on behalf of law-abiding citizens. 
+<br><br>
+
+## Black cap (date unknown) & etching of Justice Coleridge wearing cap (1855)
+The black cap was traditionally worn by judges in England and Wales when pronouncing a death sentence. It was placed on top of the traditional judicial wig with one of the four corners facing forward. While the abolition of the death penalty means the cap is no longer worn, it is still part of a judge’s full ceremonial dress and should be carried by High Court judges on occasions when this dress is worn. It was presented to the Library by Sir James D. Cassels in 1970.
+<br><br>
+This etching shows the black cap worn by John Duke Coleridge, 1st Baron Coleridge, a judge and Liberal politician. Coleridge was Called to the Bar by Middle Temple in 1846 and eventually became Lord Chief Justice of England and Wales of England in 1880. While he believed that capital punishment was justified in some circumstances, he shared in a letter to his father dated 3rd November 1864 that, “I hope to live to see public executions, at any rate, done away with; in these ages there does not occur to me a single real argument in their favour.” He did indeed live to see this happen, as the Capital Punishment Amendment Act of 1868 mandated that those sentenced to death be executed inside the prison where they were held, bringing an end to the grim spectacle and unruly crowds of public executions.
+<br><br>
+
+## Charles Duff, A New Handbook on Hanging (1954, 1961)
+Charles Duff’s A Handbook on Hanging was first published in 1928, then revised, expanded and republished several more times; the editions displayed are from 1954 and 1961. A satirical examination of the “fine art of execution”, it confronts its readers with the grim details of the execution process, as in this recounting of the executions of Julius and Ethel Rosenberg. In the section on the necessary calculations needed to execute a man by hanging, Duff contrasts the banal and methodical requirements of the hangman’s role with the profound consequences of his actions.
+<br><br>
+
+## John Laurence, A History of Capital Punishment: with special reference to capital punishment in Great Britain (1932)
+This satirical drawing dates to 1819. Bank of England notes at this time were inconsistently made, making them easily forged. Forgery was a capital crime, and anyone caught trying to use a forged note could be convicted. The artist, George Cruickshank, comments on the harshness of this punishment in his brutal drawing. Some people were instead convicted of the lesser crime of “being in possession of forged notes”, the penalty for which was transportation to Australia; this is represented in the drawing by the four ships surrounding the woman seated like Britannia. The note is signed “J. Ketch” in reference to a notorious executioner employed by King Charles II.
+<br><br>
+
+## John Macrae Moir ed., Capital Punishment: based on Professor Mittermaier’s Todesstrafe (1986)
+Carl Joseph Anton Mittermaier spent most of his career as a professor of law and jurisprudence at the University of Heidelberg and was one of Germany’s most prominent legal academics of the 19th century. His treatise on capital punishment, Die Todesstrafe, was published in 1862. This volume, edited by Middle Temple member John Macrae Moir, presents the work in English, with some alterations to provide greater background and context for English readers. Jeremy Bentham’s views on capital punishment are outlined here, as part of a wider section exploring the opinions of several contemporary capital punishment theorists on the topic.
+<br><br>
+
+## Arthur Koestler, Reflections on Hanging (1956) and Arthur Koestler & C.H. Rolph, Hanged by the Neck (1961)
+Arthur Koestler was Born in Hungary to a Jewish family in 1905. He then studied in Vienna before spending several years as a journalist in Jerusalem, Paris, Berlin and the Soviet Union. He is a controversial figure due to his political views and activities, and his alleged frequent violent behaviour towards women.
+<br><br>
+The abolition of capital punishment was one of many political causes espoused by Koestler. His experience as a death row prisoner during the Spanish Civil War influenced his key work on the topic, Reflections on Hanging, which was published in 1956 and was highly critical of the British capital punishment system. Hanged by the Neck is a collaboration with Cecil Rolph Hewitt (writing here as C.H. Rolph), a journalist and former police officer, that continues in this vein. On the pages displayed here from Reflections on Hanging, Koestler illustrates the strength of Parliament’s opposition to abolishing the death penalty for shoplifting in the early 19th century.
+<br><br>
+
+## Special Report from the Select Committee on Capital Punishment (1930)
+The Select Committee on Capital Punishment was established in 1929 in response to a resolution in the House of Commons calling for abolition. This reflected the growing abolitionist movement in the United Kingdom, particularly among increasingly prominent Labour politicians. The argument that capital punishment was not a deterrent to murder, as reflected in the statistics from countries where the death penalty had already been abolished, was new and influential. The Select Committee recommended at its conclusion in 1930 that the death penalty be suspended for an experimental period of five years, but this did not come to pass. 
+<br><br>
+
+## 
