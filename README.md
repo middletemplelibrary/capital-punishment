@@ -16,7 +16,7 @@ Middle Temple Library’s collection offers a rich historical record of capital 
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2)"
+      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
              attribution="Zbigniew Tomasz Kotkiewicz"
 
 ## Sir Julian Knowles, The Abolition of the Death Penalty in the UK: How It Happened and Why It Still Matters (2015)
