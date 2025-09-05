@@ -1,7 +1,7 @@
 <param ve-config 
        title="Capital Punishment in Law and Art"
        author="Middle Temple Library"
-       banner="https://github.com/user-attachments/assets/c9952005-bb25-46ae-ab7b-389ec5c68c11)="
+       banner="https://github.com/user-attachments/assets/ffb61c43-81fd-4ca9-bf96-712bf474264b"
        layout="vertical">
 
 # Introduction: ‘The Bloody Code’: Capital Punishment in Law and Art
