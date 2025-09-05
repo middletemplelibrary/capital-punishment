@@ -2,6 +2,7 @@
        title="Capital Punishment in Law and Art"
        author="Middle Temple Library"
        banner="https://github.com/user-attachments/assets/ffb61c43-81fd-4ca9-bf96-712bf474264b"
+              attribution="Zbigniew Tomasz Kotkiewicz"
        layout="vertical">
 
 # Introduction: ‘The Bloody Code’: Capital Punishment in Law and Art
@@ -14,6 +15,11 @@ The UN’s 1948 Declaration of Human Rights, including the right to life, steere
 Middle Temple Library’s collection offers a rich historical record of capital punishment law, tracing its evolution across the centuries through legislative documents, historical narratives, and personal accounts. Examining the historical trajectory of the death penalty enables legal professionals to situate modern legal theories of capital punishment law within the broader framework of global human rights legislation.hough its roots go back much further, the 18th century marked the beginning of developed societies’ drive towards universal abolition of the death penalty Since then, most countries have moved in this direction, while others have instead reinforced capital punishment via new methods and justifications. hough its roots go back much further, the 18th century marked the beginning of developed societies’ drive towards universal abolition of the death penal Since then, most countries have moved in this direction, while others have instead reinforced capital punishment via new methods and justifications.
 <br><br>
 
+<param ve-image 
+      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2)"
+             attribution="Zbigniew Tomasz Kotkiewicz"
+
+
 ## Sir Julian Knowles, The Abolition of the Death Penalty in the UK: How It Happened and Why It Still Matters (2015)
 The death penalty was effectively abolished in Great Britain by the Murder (Abolition of Death Penalty) Act 1965, which replaced the death penalty for murder with life imprisonment. While the Act left four capital offences (treason, “piracy with violence”, arson in royal dockyards and espionage), no further executions were carried out between 1965 and the final abolition of the death penalty in 1998.
 <br><br>
@@ -22,6 +28,9 @@ While the 1965 Act passed in the House of Commons by 355 votes to 170, public op
 [Knowles, Julian B. 2015. The Abolition of the Death Penalty in the United Kingdom: How it Happened and Why it Still Matters. London: The Death Penalty Project](https://www.deathpenaltyproject.org/wp-content/uploads/2017/12/DPP-50-Years-on-pp1-68-1.pdf)
 <br><br>
 
+<param ve-image 
+      url="https://github.com/user-attachments/assets/68276cdd-f9fd-4667-949f-8312d203bafe">
+
 ## William Schabas, The Abolition of the Death Penalty in International Law (3rd ed., 2002)
 William Schabas is a Canadian academic who specialises in the fields of international criminal and human rights law. In this acclaimed study, he outlines the progress in international law towards abolition, discussing its treatment in international criminal law, human rights law and the United Nations human rights system.  
 <br><br>
@@ -29,6 +38,9 @@ In Appendix II of the book, Schabas presents two articles from the International
 <br><br>
 [Schabas, William A. 2009. The Abolition of the Death Penalty in International Law. Cambridge: Cambridge University Press](https://www.cambridge.org/core/books/abolition-of-the-death-penalty-in-international-law/28291346A4A68C4CA2097E813007EC3A)
 <br><br>
+
+<param ve-image 
+      url="https://github.com/user-attachments/assets/68276cdd-f9fd-4667-949f-8312d203bafe">
 
 ## Laura Finley, The Death Penalty as State Crime: Who Can Kill? (2024)
 This book offers a new academic perspective on the death penalty: that it is a crime committed by states against their citizens, as it infringes on their human rights. Focusing on the United States, Finley argues that the state is aware of flaws in the process such as racial bias, inadequate representation and arbitrariness, and that torturous methods are used in the application of the death penalty. 
