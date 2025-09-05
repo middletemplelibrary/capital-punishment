@@ -19,7 +19,6 @@ Middle Temple Library’s collection offers a rich historical record of capital 
       url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2)"
              attribution="Zbigniew Tomasz Kotkiewicz"
 
-
 ## Sir Julian Knowles, The Abolition of the Death Penalty in the UK: How It Happened and Why It Still Matters (2015)
 The death penalty was effectively abolished in Great Britain by the Murder (Abolition of Death Penalty) Act 1965, which replaced the death penalty for murder with life imprisonment. While the Act left four capital offences (treason, “piracy with violence”, arson in royal dockyards and espionage), no further executions were carried out between 1965 and the final abolition of the death penalty in 1998.
 <br><br>
@@ -29,7 +28,8 @@ While the 1965 Act passed in the House of Commons by 355 votes to 170, public op
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/68276cdd-f9fd-4667-949f-8312d203bafe">
+      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2)"
+             attribution="Zbigniew Tomasz Kotkiewicz"
 
 ## William Schabas, The Abolition of the Death Penalty in International Law (3rd ed., 2002)
 William Schabas is a Canadian academic who specialises in the fields of international criminal and human rights law. In this acclaimed study, he outlines the progress in international law towards abolition, discussing its treatment in international criminal law, human rights law and the United Nations human rights system.  
@@ -40,7 +40,8 @@ In Appendix II of the book, Schabas presents two articles from the International
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/68276cdd-f9fd-4667-949f-8312d203bafe">
+      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2)"
+             attribution="Zbigniew Tomasz Kotkiewicz"
 
 ## Laura Finley, The Death Penalty as State Crime: Who Can Kill? (2024)
 This book offers a new academic perspective on the death penalty: that it is a crime committed by states against their citizens, as it infringes on their human rights. Focusing on the United States, Finley argues that the state is aware of flaws in the process such as racial bias, inadequate representation and arbitrariness, and that torturous methods are used in the application of the death penalty. 
@@ -50,12 +51,20 @@ One such example given is of the 2022 “Year of botched executions”, during w
 [Finley, Laura L. 2024. The Death Penalty as State Crime: Who Can Kill?. London: Routledge](https://www.taylorfrancis.com/books/mono/10.4324/9781003384137/death-penalty-state-crime-laura-finley)
 <br><br>
 
+<param ve-image 
+      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2)"
+             attribution="Zbigniew Tomasz Kotkiewicz"
+
 ## Richard Michael Rossi, Waiting to Die: Life on Death Row (2004)
 Lethal injection is the most common method of execution in the United States. It was first approved in Oklahoma and Texas in 1977 and was seen as a more humane method of execution than electrocution or hanging. There have however been several instances of botched executions involving the injection. The drugs are administered intravenously, and issues can arise where a vein cannot be easily located (such as when prisoners are intravenous drug users); in these cases, a scalpel is used to cut the arm or leg to find a vein, often without anaesthesia. In Waiting to Die, Rossi quotes from a New York Times article from 9th June 2000, which recounts the case of Bennie Demps, who was subjected to such a ‘cutdown’: 
 <br><br>
 “‘They butchered me back there,’ Demps said. ‘I was in a lot of pain. They cut me in the groin, they cut me in the leg, I was bleeding profusely. This is not an execution, this is murder.’”
 [Rossi, Richard Michael. 2004. Waiting to Die: Life on Death Row. London: Vision Paperbacks](https://archive.org/details/waitingtodielife0000ross)
 <br><br>
+
+<param ve-image 
+      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2)"
+             attribution="Zbigniew Tomasz Kotkiewicz"
 
 ## William Schabas, The Death Penalty as Cruel Treatment and Torture: Capital Punishment Challenged in the World's Courts (1996)
 In one section of this book, Schabas discusses ways in which those condemned to the death penalty have attempted to hasten their eventual fate. Socrates famously asked to be brought poison before his execution, believing that he would “become ridiculous in my own eyes for clinging to life” any longer. The UK’s Royal Commission on Capital Punishment considered offering prisoners a lethal dose of poison the night before their executions, but concluded that this would not be appropriate:
@@ -74,6 +83,10 @@ This work could be considered an early example of a ‘true crime’ publication
 [Benson ed., L. 1876. The Book of Remarkable Trials and Notorious Characters. London: Reeves and Turner](https://babel.hathitrust.org/cgi/pt?id=uc1.$b292083&seq=38)
 <br><br>
 
+<param ve-image 
+      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2)"
+             attribution="Zbigniew Tomasz Kotkiewicz"
+
 ## James B. Christoph, Capital Punishment and British Politics: the British Movement to Abolish the Death Penalty 1945-57 (1962)
 This Gallup survey from May 1948 demonstrates the strength of feeling on capital punishment at the time, and the extent to which the public did not favour abolition. The number of respondents who chose “Don’t Know” is remarkably low for all groups, and even supporters of the Labour government of the time tended to disapprove of the experiment.
 <br><br>
@@ -81,6 +94,10 @@ Recent polling by YouGov (21st July 2025) indicates that the public is somewhat 
 <br><br>
 [Christoph, J.B. 1962. Capital Punishment and British Politics: the British Movement to Abolish the Death Penalty 1945-57. Chicago: University of Chicago Press](https://archive.org/details/capitalpunishmen0000unse_k3e7/page/n7/mode/2up)
 <br><br>
+
+<param ve-image 
+      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2)"
+             attribution="Zbigniew Tomasz Kotkiewicz"
 
 ## The Newgate Calendar, vol III
 The Newgate Calendar was a title given to various publications about crime and punishment in England in the 18th and 19th centuries, named after Newgate Prison in London. The stories in the Newgate Calendar were highly editorialised accounts of infamous crimes and the people who committed them. This volume forms part of an edition titled The Complete Newgate Calendar that was printed for the Navarre Society in 1926.
@@ -99,6 +116,10 @@ The case caused a sensation due to Malcolm’s sex and age – she was just 22 a
 Robert Johnston was executed in Edinburgh in 1818. Johnston had been convicted of robbery and his hanging in Edinburgh’s Lawnmarket was botched: the executioner miscalculated the length of the rope and the table on which Johnston was standing did not break. The watching crowd were so incensed by the sight of Johnston’s struggling that they threw stones at the police and cut him down. When order was restored after the arrival of the military, Johnston was executed at the same place in a similarly brutal manner: the Newgate Calendar describes “his face uncovered, and one of his hands broke loose from the cords […] his fingers convulsively twisting in the noose.”
 <br><br>
 
+<param ve-image 
+      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2)"
+             attribution="Zbigniew Tomasz Kotkiewicz"
+
 # International Practices and Perspectives
 Despite indications that capital punishment’s flaws outweigh advocates’ evidence in favour of the practice, executions continue in around 55 nations around the world. Most executions occur in states notorious for human rights abuses, such as China, Saudi Arabia, and Iran. These countries are known for targeting ethnic minorities, state critics and protestors, often rendering capital verdicts for non-violent crimes.
 <br><br>
@@ -107,17 +128,29 @@ However, the United States and Japan are also among the 55 remaining nations tha
 One of the volumes here discusses Norway’s refusal to re-institute the death penalty after a horrific 2011 crime by an anti-immigrant extremist.  The country’s steadfast commitment to prevention and rehabilitation —and its resistance to retributive impulses — are seen by some as naïve and by others as admirable. Reactions to this punishment could serve as a bellwether for public attitudes toward the death penalty worldwide.
 <br><br>
 
+<param ve-image 
+      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2)"
+             attribution="Zbigniew Tomasz Kotkiewicz"
+
 ## Lilli Scherdin ed., Capital Punishment: A Hazard to a Sustainable Criminal Justice System? (2014)
 The United Nations General Assembly has adopted several resolutions calling for an international moratorium on capital punishment since 2007. These resolutions are not binding, and call on states that retain the death penalty to suspend its use with a view to abolition. This table lists the states that voted against the fourth such resolution in 2012. Since then there have been six further resolutions; the most recent in 2024 saw 32 countries vote against the resolution, a reduction of 10 from 2012.
 <br><br>
 [Scherdin ed, L. 2014. Capitol Punishment: A Hazard to a Sustainable Criminal Justice System? Chicago: University of Chicago Press](https://www.taylorfrancis.com/books/edit/10.4324/9781315570808/capital-punishment-lill-scherdin)
 <br><br>
 
+<param ve-image 
+      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2)"
+             attribution="Zbigniew Tomasz Kotkiewicz"
+
 ## Rita James Simon, A Comparative Analysis of Capital Punishment (2002)
 One argument for capital punishment is that it acts as a deterrent to the most serious crimes like murder. Several studies have attempted to determine whether this is the case, but problems arise when comparing countries with and without the death penalty as wider socio-economic factors may strongly influence crime rates and often cannot be directly compared. Generally, though, studies have not shown capital punishment to be an effective deterrent. These tables from a 1983 study present the homicide rates in 14 different jurisdictions before and after the abolition of the death penalty; they do not show a consistent effect across the countries.
 <br><br>
 [Simon, R.J. 2002.  A Comparative Analysis of Capital Punishment. London: Bloomsbury Academic.](https://books.google.co.uk/books/about/A_Comparative_Analysis_of_Capital_Punish.html?id=SpZhEQAAQBAJ&redir_esc=y)
 <br><br>
+
+<param ve-image 
+      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2)"
+             attribution="Zbigniew Tomasz Kotkiewicz"
 
 ## Edward Fitzgerald CBE KC and Sir Keir Starmer KC, A Guide to Sentencing in Capital Cases (2007)
 The Death Penalty Project is a legal action charity that provides free legal representation to people facing the death penalty around the world. Since its establishment in 1990 it has fought several significant cases that have contributed to the abolition of capital punishment in Caribbean countries. This document, written for the Project in 2007, serves as a practical sentencing guide for judges and lawyers in jurisdictions that retain the death penalty, including where it is no longer a mandatory sentence.
@@ -141,6 +174,10 @@ In June 2025, serial killer Takahiro Shiraishi was hanged in Japan, marking the 
 <br><br>
 [Sato, M. and Bacon, P. 2002. The Public Opinion Myth: Why Japan Retains the Death Penalty. London: The Death Penalty Project.](https://www.deathpenaltyproject.org/wp-content/uploads/2017/12/The-Public-Opinion-Myth.pdf)
 
+<param ve-image 
+      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2)"
+             attribution="Zbigniew Tomasz Kotkiewicz"
+
 # Disproportionality, Diminished Responsibility, & Other Miscarriages of Justice
 The history of death penalty legislation reveals numerous undeniable injustices, often rooted in the social prejudices and flawed penal systems of their time. In 18th century Britain, political opponents of the ruling class and people of lower social status were disproportionately targeted for the death penalty, while the wealthy were often able to escape judgement for similar crimes.
 <br><br>
@@ -148,6 +185,10 @@ In the United States, South Africa, and other nations with histories of codified
 <br><br>
 Many stories and statistics in the Library’s collections document known miscarriages of justice, reinforcing the central argument against capital punishment: that the death penalty exposes societies’ systemic injustices more than it functions as a direct response to, or deterrent against, crime.
 <br><br>
+
+<param ve-image 
+      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2)"
+             attribution="Zbigniew Tomasz Kotkiewicz"
 
 ## Saundra D. Westervelt and John A. Humphrey eds., Wrongly Convicted: Perspectives on Failed Justice (2002)
 This table presents the numbers of wrongful convictions found at retrial in the United States (at the time of publication). While clear variations can be seen between states, almost one quarter of defendants in capital cases sent for retrial were then found not guilty, highlighting the clear and significant risk that an innocent person could be executed. 
