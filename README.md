@@ -282,7 +282,7 @@ This etching shows the black cap worn by John Duke Coleridge, 1st Baron Coleridg
 
 <param ve-image 
       url="https://github.com/user-attachments/assets/8ebc351a-a3a1-4fee-afdf-48677d42d26b"
-       reference="MT/19/POR/152"
+       reference="MT/19/POR/152">
 <br><br>
 
 # Theories & Satirists
