@@ -198,6 +198,12 @@ This table presents the numbers of wrongful convictions found at retrial in the 
 [Westervelt, S.D. and Humphrey, S.A. eds. 2002. Wrongly Convicted: Perspectives on Failed Justice. New Brunswick: Rutgers University Press.](https://archive.org/details/wronglyconvicted00newb)
 <br><br>
 
+## David R. Dow and Mark Dow eds., Machinery of Death: The Reality of America’s Death Penalty Regime (2002)
+Machinery of Death is a collection of essays on the death penalty in the United States that illustrate deep flaws and issues with the capital punishment system. In this essay, Stephen B. Bright presents data that highlights racial prejudice and disparities in how the death penalty has been imposed in the US. He finds not only that African Americans are more likely to receive the death penalty, but that juries are more likely to impose this penalty where a murder victim was white. This is despite African Americans making up a higher proportion of victims overall. 
+<br><br>
+[Dow, D.R. and Dow, M. eds. 2002. Machinery of Death: The Reality of America's Death Penalty Regime. New York: Routledge.](https://www.taylorfrancis.com/books/edit/10.4324/9780203951989/machinery-death-christopher-hitchens-mark-dow-david-dow) 
+<br><br>
+
 ## Hugo Bedau and Michael Radelet, Miscarriages of Justice in Potentially Capital Cases (1987)
 This article from the Stanford Law Review presents 350 capital and potentially capital cases from the United States in which the defendants (many of whom had been sentenced to death) were later found to be innocent. The sample cases presented on these pages include an instance of inadequate legal representation for a defendant who could not speak English, and several cases that illustrate the role racial politics can play in capital verdicts.
 <br><br>
@@ -225,6 +231,16 @@ White Mercy is a historical and contemporary study of capital punishment in Sout
 ## The Newgate Calendar, Vol IV
 William Dodd was a writer and Anglican clergyman who lived an extravagant lifestyle. His attempts to continue his fashionable life in London left him in serious financial trouble, and in February 1777 he forged a bond in the name of a friend and ex-pupil, the Earl of Chesterfield, to clear his debt. The Earl discovered the forgery, and Dodd was arrested and sentenced to death. 
 A petition to save Dodd from execution is said to have been signed by so many people that it reached 37 pages. His supporters wrote letters to newspapers, and the writer Samuel Johnson and the Lord Mayor of the City of London attempted to secure clemency for him. Ultimately this was denied, and Dodd was hanged on 27th June 1777. The perceived harshness of his sentence contributed to a shift in public opinion regarding the death penalty, and forgery was eventually removed as a capital offence by the Forgery, Abolition of Punishment of Death Act 1832. 
+<br><br>
+
+# The Other Executioners: Mobs, Juries, Prosecutors & Judges
+Executioners have occasionally recounted their experiences of delivering the ultimate punishment, reflecting the psychological toll of this grim and morally fraught role. While they have generally taken on the final act of the death penalty, others have shared responsibility for adjudicating and administering capital punishment, including lawful and unlawful actors.
+<br><br>
+In cases of mob justice, vigilantes have carried out extrajudicial killings before verdicts were delivered and even prior to scheduled executions.  Public lynchings in mid-19th century England expressed a bloodlust fuelled by the regular spectacle of public executions, with self-appointed vigilantes viewing themselves as rightful agents of justice.
+<br><br>
+While such public displays are rare today, citizens may still express their desire for retribution via service on juries in capital cases. Extensive research shows that jurors’ past experiences and personal biases, compounded by public pressure and complex group dynamics, can distort deliberations.
+<br><br>
+In the U.S. legal system, elected prosecutors may be driven by political incentives to secure convictions in capital cases. This has contributed to instances of prosecutorial misconduct, including evidence suppression, coerced confessions, and wrongful conviction. Judges in capital cases may also wield outsized influence, and memoirs from capital punishment advocates on the bench reveal how personal prejudices may have shaped past verdicts.
 <br><br>
 
 ## Brad Williams, Due Process: The Story of Criminal Lawyer George T. Davis and his Thirty-Year Battle Against Capital Punishment (1961)
@@ -263,6 +279,17 @@ Benjamin Fleury-Steiner’s academic work examines the intersection of inequalit
 The black cap was traditionally worn by judges in England and Wales when pronouncing a death sentence. It was placed on top of the traditional judicial wig with one of the four corners facing forward. While the abolition of the death penalty means the cap is no longer worn, it is still part of a judge’s full ceremonial dress and should be carried by High Court judges on occasions when this dress is worn. It was presented to the Library by Sir James D. Cassels in 1970.
 <br><br>
 This etching shows the black cap worn by John Duke Coleridge, 1st Baron Coleridge, a judge and Liberal politician. Coleridge was Called to the Bar by Middle Temple in 1846 and eventually became Lord Chief Justice of England and Wales of England in 1880. While he believed that capital punishment was justified in some circumstances, he shared in a letter to his father dated 3rd November 1864 that, “I hope to live to see public executions, at any rate, done away with; in these ages there does not occur to me a single real argument in their favour.” He did indeed live to see this happen, as the Capital Punishment Amendment Act of 1868 mandated that those sentenced to death be executed inside the prison where they were held, bringing an end to the grim spectacle and unruly crowds of public executions.
+<param ve-image 
+      url="https://github.com/user-attachments/assets/8ebc351a-a3a1-4fee-afdf-48677d42d26b"
+       reference="MT/19/POR/152"
+<br><br>
+
+# Theories & Satirists
+At its height in the 18th century, the English penal system prescribed the death penalty for over 220 offences, earning it the grim moniker ‘The Bloody Code’. However, the global proliferation of capital punishment during this era provoked growing opposition, exemplified by Cesare Beccaria’s 1767 essay 'On Crimes and Punishments'. A century later, German Jurist Carl Joseph Anton Mittermaier’s influential Capital Punishment (1865) presented an in-depth analysis of the legal, moral and social implications of the death penalty.
+<br><br>
+Some of the most impactful British publications against capital punishment have come in the form of art, including songs, illustrations, and creative writing. Several 18th century execution ballads embedded social commentary, expressing critical views of the practice by exposing dubious justifications and depicting its gory methods. Satirical illustrations tied capital punishment to underlying injustices against the working class and women. The trend continued into the 20th century with increasingly creative approaches such as Charles Duff’s A Handbook on Hanging.
+<br><br>
+One of the 20th century’s strongest abolitionist voices came from a Jewish Hungarian who migrated to the UK in 1940. Drawing on personal experience of totalitarianism and imprisonment, Arthur Koestler CBE advanced the case for abolition through powerful articles, novels and essays. He went on to establish Koestler Arts, the UK’s oldest prison arts charity.
 <br><br>
 
 ## Charles Duff, A New Handbook on Hanging (1954, 1961)
