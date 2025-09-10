@@ -3,8 +3,8 @@
 <param ve-config 
        title="Capital Punishment in Law and Art"
        author="Middle Temple Library"
-       banner="https://github.com/user-attachments/assets/ffb61c43-81fd-4ca9-bf96-712bf474264b"
-              attribution="Zbigniew Tomasz Kotkiewicz"
+       banner="https://github.com/user-attachments/assets/df672280-5634-4bcc-a2c7-1be4925e652e"
+              attribution="The Trustees of the British Museum"
        layout="vertical">
 
 # Introduction: ‘The Bloody Code’: Capital Punishment in Law and Art
