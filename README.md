@@ -15,7 +15,7 @@ The UN’s 1948 Declaration of Human Rights, including the right to life, steere
 Middle Temple Library’s collection offers a rich historical record of capital punishment law, tracing its evolution across the centuries through legislative documents, historical narratives, and personal accounts. Examining the historical trajectory of the death penalty enables legal professionals to situate modern legal theories of capital punishment law within the broader framework of global human rights legislation.hough its roots go back much further, the 18th century marked the beginning of developed societies’ drive towards universal abolition of the death penalty Since then, most countries have moved in this direction, while others have instead reinforced capital punishment via new methods and justifications. hough its roots go back much further, the 18th century marked the beginning of developed societies’ drive towards universal abolition of the death penal Since then, most countries have moved in this direction, while others have instead reinforced capital punishment via new methods and justifications.
 <br><br>
 <param ve-image 
-      url="![486114740-47952855-8a68-4aa9-967e-c8e00bfb2ab2](https://github.com/user-attachments/assets/118e0596-35d1-472f-8b6e-ad420866eeb5)"
+      url="486114740-47952855-8a68-4aa9-967e-c8e00bfb2ab2"
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## Sir Julian Knowles, The Abolition of the Death Penalty in the UK: How It Happened and Why It Still Matters (2015)
