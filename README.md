@@ -71,7 +71,7 @@ Lethal injection is the most common method of execution in the United States. It
 In one section of this book, Schabas discusses ways in which those condemned to the death penalty have attempted to hasten their eventual fate. Socrates famously asked to be brought poison before his execution, believing that he would “become ridiculous in my own eyes for clinging to life” any longer. The UK’s Royal Commission on Capital Punishment considered offering prisoners a lethal dose of poison the night before their executions, but concluded that this would not be appropriate:
 <br><br>
 “The purpose of capital punishment is not just to rid the community of an unwanted member; it is to mark the community’s denunciation of the gravest of all crimes by subjecting the perpetrator, in the form of law, to the severest of all punishments.”
-<br><br>
+
 [Schabas, W. 1996. The Death Penalty as Cruel Treatment and Torture: Capital Punishment Challenged in the World's Courts. London: Vision Paperbacks](https://archive.org/details/waitingtodielife0000ross)
 <param ve-image 
       url="https://github.com/user-attachments/assets/107dbf02-5ddf-4929-9bf2-aeed08cf9345"
