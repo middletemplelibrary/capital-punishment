@@ -1,7 +1,8 @@
 <param ve-config 
        title="Capital Punishment in Law and Art"
        author="Middle Temple Library"
-       banner="https://github.com/user-attachments/assets/df672280-5634-4bcc-a2c7-1be4925e652e"
+       banner="https://github.com/user-attachments/assets/60cbfe9d-4c58-4132-ad25-5df54cdb2a49"
+              label="John Laurence, A History of Capital Punishment: with special reference to capital punishment in Great Britain (1932)"
               attribution="The Trustees of the British Museum"
        layout="vertical">
 
