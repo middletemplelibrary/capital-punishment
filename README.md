@@ -388,4 +388,49 @@ The Select Committee on Capital Punishment was established in 1929 in response t
       url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
              attribution="Zbigniew Tomasz Kotkiewicz">
 
-# 
+# Prisoners’ Stories: The View from Inside Death Row
+Few forms of creative expression have influenced the drive towards abolition as much as published narratives describing death row prisoners’ stories. Creative non-fiction, plays and journalism have exposed the tragedies preceding capital verdicts and subsequent struggles faced by both guilty and wrongfully convicted prisoners in their aftermath.
+<br><br>
+Early published accounts of prisoners awaiting the gallows were the true-crime stories of their time, detailing the unfortunate circumstances that led to capital crimes. These stories often included heavy moralising about the poor choices and disreputable characters leading up to the crimes, rarely questioning the ethics of state executions.
+<br><br>
+Later publications present direct accounts of prisoners’ lives, from childhood poverty, abuse, and neglect to the legal machinations that led to capital verdicts. Those who confess guilt often speak of profound repentance and transformation, while those claiming innocence describe gruelling appeals and the daily strain of living under constant threat of execution.
+<br><br>
+Some of this collection’s most poignant pages record the ephemera of day-to-day life on death row: letters and telegrams, lists describing last meal requests, drawings and personal belongings. These telling minutiae complicate the dehumanisation of death row prisoners, betraying the humanity of some of the world’s most publicly demonised figures.
+<br><br>
+
+## Scott Christianson, Condemned: Inside the Sing Sing Death House (2000)
+Before the death penalty was abolished in New York in 1972, 614 people were executed at Sing Sing prison – more than any other prison in the United States. Christianson’s book uses archival materials to reconstruct the stories of some of those prisoners. These materials include photographs of the prisoners on their arrival at the prison, extracts from their letters to each other, and details of escape attempts.
+[Christianson, S. 2000. Condemned: Inside the Sing Sing Death House. New York: NYU Press.](https://archive.org/details/condemnedinsides0000chri)
+<br><br>
+
+<param ve-image 
+      url="https://github.com/user-attachments/assets/b0ab1869-75f1-4b34-87fa-41c6e4bf964a"
+              licence="cc0 1.0 Universal"
+             attribution="PicFreeded">
+
+## Katya Lezin, Finding Life on Death Row: Profiles of Six Inmates (1999)
+The prisoners’ stories in Finding Life on Death Row are taken from the files of Stephen B. Bright, a lawyer and legal academic best known for representing defendants in capital cases and for challenging inhumane conditions and practices in prisons. Lezin tells the stories of six Death Row prisoners, reconstructing the conditions in which their crimes were committed, the machinations that led to their death sentences, and the impact on their families.
+<br><br>
+One such story is that of Judy Haney, whose abusive husband Jerry was murdered in 1984. Judy and her children had endured 15 years of brutal violence and controlling behaviour from Jerry, whom she married aged 16. While Haney herself did not murder her husband, in August 1984 she paid $3000 to her brother-in-law Jerry Henderson, who informed her he had hired a hitman to do the job. Henderson confessed to the murder in 1987, claiming that Haney had hired him to kill her husband. Haney’s defence lawyer was found in contempt of court for appearing drunk at her trial and failed to provide key medical evidence confirming the abuse she had suffered; nonetheless, he was appointed to handle her case again on her first appeal. 
+<br><br>
+After several more appeals in which new evidence was supplied, Haney’s case was settled and her sentence revised to life without the possibility of parole. Haney’s case and the others in Finding Life on Death Row illustrate both the desperate conditions in which some capital crimes are committed and the myriad ways in which the justice system risks failing defendants in their right to a fair trial
+[Lezin, K. 1999. Finding Life on Death Row: Profiles of Six Inmates. Boston: Northeastern University Press.](https://archive.org/details/findinglifeondea0000lezi)
+<br><br>
+
+<param ve-image 
+      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+             attribution="Zbigniew Tomasz Kotkiewicz">
+
+## Sunny Jacobs, Stolen Time (2015)
+In 1976, Sonia ‘Sunny’ Jacobs and her partner Jesse Tafero were convicted of murder and sentenced to death in Florida. Their convictions were based on the testimony of Walter Rhodes, another defendant who received a life sentence in exchange for his co-operation but who changed his story several times, and who physical evidence identified as the most likely culprit. Jacobs and Tafero maintained their innocence and after 17 years in prison, Jacobs was released following a plea deal in 1992 which allowed her to maintain her innocence. Tafero died two years prior in a horrific botched execution. Jacobs moved to Ireland and established the Sunny Centre, an organisation to support the wrongly convicted. The play The Exonerated tells the story of Jacobs and five other wrongly convicted prisoners; it premiered in 2000 and ran for over 600 performances, winning multiple awards.
+[Jacobs, S. 2007. Stolen Time: The Inspiring Story of an Innocent Woman Condemned to Death.](https://archive.org/details/stolentimeinspir0000jaco)
+<br><br>
+
+<param ve-image 
+      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+             attribution="Zbigniew Tomasz Kotkiewicz">
+
+## Rex v. Roger David Casement (1916)
+Sir Roger Casement was a diplomat and Irish nationalist who was executed for treason in 1916. Raised in Dublin, he joined the British Colonial Service and worked in the Congo and Peru, where he investigated and wrote reports on horrific human rights abuses in the rubber industry. These experiences led to Casement’s growing distrust of colonialism; he retired from the Colonial Service in 1913 and joined the Irish Volunteers. He organised the transport of weapons from Germany to Ireland for the Easter Rising in 1916, but the weapons were intercepted and Casement sailed to Ireland in a German submarine in an attempt to stop the rising. He was arrested in April 1916, found guilty of treason and executed on 3rd August. During his trial, documents purported to be his personal diaries were circulated which contained details of homosexual activity; there is debate among historians as to whether these diaries were forged.
+<br><br>
+This volume contains a record of proceedings in Casement’s trial. The index to exhibits records the objects that were shown as evidence in court. They include an image of the boat in which Casement landed at Tralee Bay; objects that were found alongside the boat including weapons and maps; and a train ticket from Berlin to Wilhelmshaven, where Casement boarded the submarine. 
