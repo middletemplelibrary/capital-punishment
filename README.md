@@ -78,7 +78,7 @@ This work could be considered an early example of a ‘true crime’ publication
 [Benson ed., L. 1876. The Book of Remarkable Trials and Notorious Characters. London: Reeves and Turner](https://babel.hathitrust.org/cgi/pt?id=uc1.$b292083&seq=38)
 <br><br>
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## James B. Christoph, Capital Punishment and British Politics: the British Movement to Abolish the Death Penalty 1945-57 (1962)
@@ -88,7 +88,7 @@ Recent polling by YouGov (21st July 2025) indicates that the public is somewhat 
 [Christoph, J.B. 1962. Capital Punishment and British Politics: the British Movement to Abolish the Death Penalty 1945-57. Chicago: University of Chicago Press](https://archive.org/details/capitalpunishmen0000unse_k3e7/page/n7/mode/2up)
 <br><br>
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## The Newgate Calendar, vol III
@@ -107,7 +107,7 @@ The case caused a sensation due to Malcolm’s sex and age – she was just 22 a
 Robert Johnston was executed in Edinburgh in 1818. Johnston had been convicted of robbery and his hanging in Edinburgh’s Lawnmarket was botched: the executioner miscalculated the length of the rope and the table on which Johnston was standing did not break. The watching crowd were so incensed by the sight of Johnston’s struggling that they threw stones at the police and cut him down. When order was restored after the arrival of the military, Johnston was executed at the same place in a similarly brutal manner: the Newgate Calendar describes “his face uncovered, and one of his hands broke loose from the cords […] his fingers convulsively twisting in the noose.”
 <br><br>
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 # International Practices and Perspectives
@@ -119,7 +119,7 @@ One of the volumes here discusses Norway’s refusal to re-institute the death p
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## Lilli Scherdin ed., Capital Punishment: A Hazard to a Sustainable Criminal Justice System? (2014)
@@ -128,7 +128,7 @@ The United Nations General Assembly has adopted several resolutions calling for 
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## Rita James Simon, A Comparative Analysis of Capital Punishment (2002)
@@ -137,7 +137,7 @@ One argument for capital punishment is that it acts as a deterrent to the most s
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## Edward Fitzgerald CBE KC and Sir Keir Starmer KC, A Guide to Sentencing in Capital Cases (2007)
@@ -163,7 +163,7 @@ In June 2025, serial killer Takahiro Shiraishi was hanged in Japan, marking the 
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 # Disproportionality, Diminished Responsibility, & Other Miscarriages of Justice
@@ -175,7 +175,7 @@ Many stories and statistics in the Library’s collections document known miscar
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## Saundra D. Westervelt and John A. Humphrey eds., Wrongly Convicted: Perspectives on Failed Justice (2002)
@@ -184,7 +184,7 @@ This table presents the numbers of wrongful convictions found at retrial in the 
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## David R. Dow and Mark Dow eds., Machinery of Death: The Reality of America’s Death Penalty Regime (2002)
@@ -193,7 +193,7 @@ Machinery of Death is a collection of essays on the death penalty in the United 
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## Hugo Bedau and Michael Radelet, Miscarriages of Justice in Potentially Capital Cases (1987)
@@ -201,7 +201,7 @@ This article from the Stanford Law Review presents 350 capital and potentially c
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## Helen Prejean, The Death of Innocents: an Eyewitness Account of Wrongful Executions (2005)
@@ -210,7 +210,7 @@ Sister Helen Prejean is a Catholic religious nun who has been working with inmat
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## Margaret Edds, An Expendable Man: The Near Execution of Earl Washington Jr. (2003)
@@ -220,7 +220,7 @@ After years of attempts to appeal, new tests found no trace of Washington’s DN
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## Michael L. Perlin, Mental Disability and the Death Penalty: The Shame of the States (2013)
@@ -230,7 +230,7 @@ Organisations such as the American Bar Association and the American Psychiatric 
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## Robert Vicat Turrell, White Mercy: A Study of the Death Penalty in South Africa (2004)
@@ -239,7 +239,7 @@ White Mercy is a historical and contemporary study of capital punishment in Sout
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## The Newgate Calendar, Vol IV
@@ -262,7 +262,7 @@ In the U.S. legal system, elected prosecutors may be driven by political incenti
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## Brad Williams, Due Process: The Story of Criminal Lawyer George T. Davis and his Thirty-Year Battle Against Capital Punishment (1961)
@@ -272,7 +272,7 @@ George T. Davis was a prominent defence lawyer based in San Francisco. Over his 
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## Don Lasseter, Perfect Justice (2004)
@@ -285,7 +285,7 @@ In his retirement, Cartin’s view on capital punishment shifted, and he wrote a
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## Albert Pierrepoint, Executioner: Pierrepoint (1974)
@@ -296,7 +296,7 @@ Albert Pierrepoint was an English hangman who carried out over 400 executions. A
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## Robert J. Lifton and Greg Mitchell, Who Owns Death?: Capital Punishment, the American Conscience, and the End of Execution (2000)
@@ -305,7 +305,7 @@ In Who Owns Death?, Lifton and Mitchell explore the opinions, feelings and motiv
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## Alex F. Young, The Encyclopaedia of Scottish Executions, 1750-1963 (1998)
@@ -322,7 +322,7 @@ Benjamin Fleury-Steiner’s academic work examines the intersection of inequalit
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## Black cap (date unknown) & etching of Justice Coleridge wearing cap (1855)
@@ -344,7 +344,7 @@ One of the 20th century’s strongest abolitionist voices came from a Jewish Hun
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## Charles Duff, A New Handbook on Hanging (1954, 1961)
@@ -353,7 +353,7 @@ Charles Duff’s A Handbook on Hanging was first published in 1928, then revised
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## John Laurence, A History of Capital Punishment: with special reference to capital punishment in Great Britain (1932)
@@ -370,7 +370,7 @@ Carl Joseph Anton Mittermaier spent most of his career as a professor of law and
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## Arthur Koestler, Reflections on Hanging (1956) and Arthur Koestler & C.H. Rolph, Hanged by the Neck (1961)
@@ -381,7 +381,7 @@ The abolition of capital punishment was one of many political causes espoused by
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## Special Report from the Select Committee on Capital Punishment (1930)
