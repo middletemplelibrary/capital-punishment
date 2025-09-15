@@ -32,9 +32,6 @@ While the 1965 Act passed in the House of Commons by 355 votes to 170, public op
 ## William Schabas, The Abolition of the Death Penalty in International Law (3rd ed., 2002)
 William Schabas is a Canadian academic who specialises in the fields of international criminal and human rights law. In this acclaimed study, he outlines the progress in international law towards abolition, discussing its treatment in international criminal law, human rights law and the United Nations human rights system.  
 
-![1](https://github.com/user-attachments/assets/3abf901b-2f68-46e1-a7be-1566e08b5dc7)
-
-
 <br><br>
 In Appendix II of the book, Schabas presents two articles from the International Covenant on Civil and Political Rights: Article 6, which states that “Every human being has the inherent right to life”, and Article 14, covering the right to a fair and public trial. Despite declaring the inherent right to life, Article 6 does not prohibit the death penalty entirely. It restricts its use to “only for the most serious crimes […] pursuant to a final judgment rendered by a competent court” and forbids its use against children and pregnant women. As of July 2025, 24 states have not become party to the treaty, while 6 have signed but not yet ratified it.
 [Schabas, William A. 2009. The Abolition of the Death Penalty in International Law. Cambridge: Cambridge University Press](https://www.cambridge.org/core/books/abolition-of-the-death-penalty-in-international-law/28291346A4A68C4CA2097E813007EC3A)
