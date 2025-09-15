@@ -50,9 +50,6 @@ One such example given is of the 2022 “Year of botched executions”, during w
       url= https://github.com/user-attachments/assets/891dad56-1305-4842-9ef2-98439092a137
              attribution="Zbigniew Tomasz Kotkiewicz">
 
-![1](https://github.com/user-attachments/assets/891dad56-1305-4842-9ef2-98439092a137)
-
-
 ## Richard Michael Rossi, Waiting to Die: Life on Death Row (2004)
 Lethal injection is the most common method of execution in the United States. It was first approved in Oklahoma and Texas in 1977 and was seen as a more humane method of execution than electrocution or hanging. There have however been several instances of botched executions involving the injection. The drugs are administered intravenously, and issues can arise where a vein cannot be easily located (such as when prisoners are intravenous drug users); in these cases, a scalpel is used to cut the arm or leg to find a vein, often without anaesthesia. In Waiting to Die, Rossi quotes from a New York Times article from 9th June 2000, which recounts the case of Bennie Demps, who was subjected to such a ‘cutdown’: 
 <br><br>
@@ -60,8 +57,11 @@ Lethal injection is the most common method of execution in the United States. It
 [Rossi, Richard Michael. 2004. Waiting to Die: Life on Death Row. London: Vision Paperbacks](https://archive.org/details/waitingtodielife0000ross)
 <br><br>
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
+
+![1](https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81)
+
 
 ## William Schabas, The Death Penalty as Cruel Treatment and Torture: Capital Punishment Challenged in the World's Courts (1996)
 In one section of this book, Schabas discusses ways in which those condemned to the death penalty have attempted to hasten their eventual fate. Socrates famously asked to be brought poison before his execution, believing that he would “become ridiculous in my own eyes for clinging to life” any longer. The UK’s Royal Commission on Capital Punishment considered offering prisoners a lethal dose of poison the night before their executions, but concluded that this would not be appropriate:
