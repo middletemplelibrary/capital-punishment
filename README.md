@@ -19,10 +19,6 @@ Middle Temple Library’s collection offers a rich historical record of capital 
       url= https://github.com/user-attachments/assets/34fc02f2-9c0f-4273-bba6-cfa698fb1ada
              attribution="Zbigniew Tomasz Kotkiewicz">
 
-![1](https://github.com/user-attachments/assets/34fc02f2-9c0f-4273-bba6-cfa698fb1ada)
-
-
-
 ## Sir Julian Knowles, The Abolition of the Death Penalty in the UK: How It Happened and Why It Still Matters (2015)
 The death penalty was effectively abolished in Great Britain by the Murder (Abolition of Death Penalty) Act 1965, which replaced the death penalty for murder with life imprisonment. While the Act left four capital offences (treason, “piracy with violence”, arson in royal dockyards and espionage), no further executions were carried out between 1965 and the final abolition of the death penalty in 1998.
 <br><br>
@@ -33,6 +29,7 @@ While the 1965 Act passed in the House of Commons by 355 votes to 170, public op
       url= https://github.com/user-attachments/assets/3abf901b-2f68-46e1-a7be-1566e08b5dc7
              attribution="Zbigniew Tomasz Kotkiewicz">
 
+
 ## William Schabas, The Abolition of the Death Penalty in International Law (3rd ed., 2002)
 William Schabas is a Canadian academic who specialises in the fields of international criminal and human rights law. In this acclaimed study, he outlines the progress in international law towards abolition, discussing its treatment in international criminal law, human rights law and the United Nations human rights system.  
 
@@ -41,8 +38,11 @@ In Appendix II of the book, Schabas presents two articles from the International
 [Schabas, William A. 2009. The Abolition of the Death Penalty in International Law. Cambridge: Cambridge University Press](https://www.cambridge.org/core/books/abolition-of-the-death-penalty-in-international-law/28291346A4A68C4CA2097E813007EC3A)
 <br><br>
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c975f5b6-2500-4740-9076-381988b02705
              attribution="Zbigniew Tomasz Kotkiewicz">
+
+![1](https://github.com/user-attachments/assets/c975f5b6-2500-4740-9076-381988b02705)
+
 
 ## Laura Finley, The Death Penalty as State Crime: Who Can Kill? (2024)
 This book offers a new academic perspective on the death penalty: that it is a crime committed by states against their citizens, as it infringes on their human rights. Focusing on the United States, Finley argues that the state is aware of flaws in the process such as racial bias, inadequate representation and arbitrariness, and that torturous methods are used in the application of the death penalty. 
