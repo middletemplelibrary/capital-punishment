@@ -115,6 +115,10 @@ However, the United States and Japan are also among the 55 remaining nations tha
 One of the volumes here discusses Norway’s refusal to re-institute the death penalty after a horrific 2011 crime by an anti-immigrant extremist.  The country’s steadfast commitment to prevention and rehabilitation —and its resistance to retributive impulses — are seen by some as naïve and by others as admirable. Reactions to this punishment could serve as a bellwether for public attitudes toward the death penalty worldwide.
 <br><br>
 
+<param ve-image 
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
+             attribution="Zbigniew Tomasz Kotkiewicz">
+
 ## Lilli Scherdin ed., Capital Punishment: A Hazard to a Sustainable Criminal Justice System? (2014)
 The United Nations General Assembly has adopted several resolutions calling for an international moratorium on capital punishment since 2007. These resolutions are not binding, and call on states that retain the death penalty to suspend its use with a view to abolition. This table lists the states that voted against the fourth such resolution in 2012. Since then there have been six further resolutions; the most recent in 2024 saw 32 countries vote against the resolution, a reduction of 10 from 2012.
 [Scherdin ed, L. 2014. Capitol Punishment: A Hazard to a Sustainable Criminal Justice System? Chicago: University of Chicago Press](https://www.taylorfrancis.com/books/edit/10.4324/9781315570808/capital-punishment-lill-scherdin)
