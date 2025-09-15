@@ -409,5 +409,9 @@ Sir Roger Casement was a diplomat and Irish nationalist who was executed for tre
 This volume contains a record of proceedings in Casement’s trial. The index to exhibits records the objects that were shown as evidence in court. They include an image of the boat in which Casement landed at Tralee Bay; objects that were found alongside the boat including weapons and maps; and a train ticket from Berlin to Wilhelmshaven, where Casement boarded the submarine.
 <br><br>
 <param ve-image 
-      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
-             attribution="Zbigniew Tomasz Kotkiewicz">
+      url= https://github.com/user-attachments/assets/7abab676-3611-431e-86fb-58755a88647e
+             attribution="Reproduced courtesy of the National Library of Ireland"
+              reference="KE9">
+
+![1](https://github.com/user-attachments/assets/7abab676-3611-431e-86fb-58755a88647e)
+
