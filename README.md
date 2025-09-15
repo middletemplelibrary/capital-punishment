@@ -60,9 +60,6 @@ Lethal injection is the most common method of execution in the United States. It
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
-![1](https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81)
-
-
 ## William Schabas, The Death Penalty as Cruel Treatment and Torture: Capital Punishment Challenged in the World's Courts (1996)
 In one section of this book, Schabas discusses ways in which those condemned to the death penalty have attempted to hasten their eventual fate. Socrates famously asked to be brought poison before his execution, believing that he would “become ridiculous in my own eyes for clinging to life” any longer. The UK’s Royal Commission on Capital Punishment considered offering prisoners a lethal dose of poison the night before their executions, but concluded that this would not be appropriate:
 <br><br>
@@ -72,9 +69,6 @@ In one section of this book, Schabas discusses ways in which those condemned to 
 <param ve-image 
       url= https://github.com/user-attachments/assets/494b3354-c6f1-4fdb-b0aa-fab4b92bfe09
        license="CC0 1.0">
-
-![3](https://github.com/user-attachments/assets/494b3354-c6f1-4fdb-b0aa-fab4b92bfe09)
-
 
 ## L. Benson ed., The Book of Remarkable Trials and Notorious Characters (1876)
 This work could be considered an early example of a ‘true crime’ publication, with its accounts of sensational trials and criminals that captured the public’s imagination. The story of ‘Half-Hanged Smith’ is one recorded instance where a prisoner survived being hanged. John Smith was sentenced to death for burglary in 1705 and his hanging scheduled for 24th December. He was cut down after fifteen minutes of hanging and quickly revived; his vivid account of the physical experience of being hanged can be read from the bottom of page 30. Smith dodged death twice more and was eventually transported to Virginia.
@@ -105,9 +99,6 @@ The case caused a sensation due to Malcolm’s sex and age – she was just 22 a
       url= https://github.com/user-attachments/assets/94182fc4-adad-4e14-be92-f5229f2f16ad
        attribution="The Trustees of the British Museum"
        license="CC BY-NC-SA 4.0">
-
-![4](https://github.com/user-attachments/assets/94182fc4-adad-4e14-be92-f5229f2f16ad)
-
 
 ## George Ryley Scott, The History of Capital Punishment (1950)
 Robert Johnston was executed in Edinburgh in 1818. Johnston had been convicted of robbery and his hanging in Edinburgh’s Lawnmarket was botched: the executioner miscalculated the length of the rope and the table on which Johnston was standing did not break. The watching crowd were so incensed by the sight of Johnston’s struggling that they threw stones at the police and cut him down. When order was restored after the arrival of the military, Johnston was executed at the same place in a similarly brutal manner: the Newgate Calendar describes “his face uncovered, and one of his hands broke loose from the cords […] his fingers convulsively twisting in the noose.”
@@ -155,9 +146,6 @@ The Death Penalty Project is a legal action charity that provides free legal rep
        attribution="Crown Copyright"
        license="CC BY 3.0">
 
-![5](https://github.com/user-attachments/assets/8a42f93b-f09c-4899-b58f-73a1c4d05ea1)
-
-
 ## Lord David Pannick KC, Judicial Review of the Death Penalty (1982)
 In some countries where the death penalty is retained, it is imposed as a mandatory punishment for certain crimes. This prevents judges from taking into account any mitigating circumstances when sentencing. Pannick uses examples from Singapore and Pakistan to argue that mandatory sentencing conflicts with the rights guaranteed by a written constitution, as it fails to ensure fair and reasonable treatment under the law.
 <br><br>
@@ -165,9 +153,6 @@ In some countries where the death penalty is retained, it is imposed as a mandat
 <param ve-image 
       url= https://github.com/user-attachments/assets/6a28a711-c9e0-4d8b-8011-2d13113623af
        license="Not to be copied, saved or stored">
-
-![6](https://github.com/user-attachments/assets/6a28a711-c9e0-4d8b-8011-2d13113623af)
-
 
 ## Mai Sato & Paul Bacon, The Public Opinion Myth: Why Japan Retains the Death Penalty (2015)
 In June 2025, serial killer Takahiro Shiraishi was hanged in Japan, marking the country’s first execution in three years. Conditions on death row in Japan have been heavily criticised by campaigners, as inmates are kept in solitary confinement and are typically only given a few hours’ notice of their execution. The Japanese government surveys the public on the topic every five years, with the most recently available results from March 2025 finding that 83.1% of respondents find the death penalty to be “unavoidable”. In this report, however, Sato and Bacon argue that the public form their opinions on the topic based on limited information and conclude that abolition would be embraced if the government were to change its stance.
@@ -263,9 +248,6 @@ A petition to save Dodd from execution is said to have been signed by so many pe
       url= https://github.com/user-attachments/assets/e4eae2a5-34fb-42cd-9087-55d1fd2065c8
              attribution="Trustees of the British Museum">
 
-![7](https://github.com/user-attachments/assets/e4eae2a5-34fb-42cd-9087-55d1fd2065c8)
-
-
 # The Other Executioners: Mobs, Juries, Prosecutors & Judges
 Executioners have occasionally recounted their experiences of delivering the ultimate punishment, reflecting the psychological toll of this grim and morally fraught role. While they have generally taken on the final act of the death penalty, others have shared responsibility for adjudicating and administering capital punishment, including lawful and unlawful actors.
 <br><br>
@@ -331,9 +313,6 @@ William Burke and William Hare were an infamous pair of murderers based in 19th 
       url= https://github.com/user-attachments/assets/40b1373f-9b3a-4ef5-a219-73fd51574e67
              attribution="Trustees of the British Museum">
 
-![8](https://github.com/user-attachments/assets/40b1373f-9b3a-4ef5-a219-73fd51574e67)
-
-
 ## Benjamin Fleury-Steiner, Jurors’ Stories of Death: How America's Death Penalty Invests in Inequality (2004)
 Benjamin Fleury-Steiner’s academic work examines the intersection of inequality, punishment and social control. Jurors’ Stories of Death is a survey of jurors who have served in capital punishment cases, that attempts to unravel the factors that contributed to their decisions in those cases. Fleury-Steiner believes that race is a key factor in capital punishment verdicts and that jurors often fall into a “us-versus-them” pattern of thought, allowing them to retain a sense of moral superiority and justice. Here, he presents a quote from Justice Antonin Scalia that summarises what Fleury-Steiner believes is the overarching theme of death penalty verdicts: punishment for committing the ultimate crime (murder), and a desire to seek revenge on behalf of law-abiding citizens.
 [Fleury-Steiner, B.D. 2004. Jurors' Stories of Death: How America's Death Penalty Invests in Inequality. Ann Arbor: University of Michigan Press](https://press.umich.edu/Books/J/Jurors-Stories-of-Death)
@@ -350,8 +329,11 @@ This etching shows the black cap worn by John Duke Coleridge, 1st Baron Coleridg
 <br><br>
 
 <param ve-image 
-      url= https://github.com/user-attachments/assets/8b089d1e-f5c4-4d41-a483-b098075685ee
+      url= https://github.com/user-attachments/assets/08362f2f-6380-4518-94d6-39cd4d736dcc
        reference="MT/19/POR/152">
+
+![12](https://github.com/user-attachments/assets/08362f2f-6380-4518-94d6-39cd4d736dcc)
+
 
 # Theories & Satirists
 At its height in the 18th century, the English penal system prescribed the death penalty for over 220 offences, earning it the grim moniker ‘The Bloody Code’. However, the global proliferation of capital punishment during this era provoked growing opposition, exemplified by Cesare Beccaria’s 1767 essay 'On Crimes and Punishments'. A century later, German Jurist Carl Joseph Anton Mittermaier’s influential Capital Punishment (1865) presented an in-depth analysis of the legal, moral and social implications of the death penalty.
@@ -381,9 +363,6 @@ This satirical drawing dates to 1819. Bank of England notes at this time were in
 <param ve-image 
       url= https://github.com/user-attachments/assets/af7c3c25-6a86-4ec6-8d59-3050e88d23c1
              attribution="The Trustees of the British Museum"
-
-![10](https://github.com/user-attachments/assets/af7c3c25-6a86-4ec6-8d59-3050e88d23c1)
-
 
 ## John Macrae Moir ed., Capital Punishment: based on Professor Mittermaier’s Todesstrafe (1986)
 Carl Joseph Anton Mittermaier spent most of his career as a professor of law and jurisprudence at the University of Heidelberg and was one of Germany’s most prominent legal academics of the 19th century. His treatise on capital punishment, Die Todesstrafe, was published in 1862. This volume, edited by Middle Temple member John Macrae Moir, presents the work in English, with some alterations to provide greater background and context for English readers. Jeremy Bentham’s views on capital punishment are outlined here, as part of a wider section exploring the opinions of several contemporary capital punishment theorists on the topic.
@@ -437,9 +416,6 @@ Before the death penalty was abolished in New York in 1972, 614 people were exec
       url= https://github.com/user-attachments/assets/20d69283-98bf-4b1f-b8cc-9bcd014d5dcd
               licence="cc0 1.0 Universal"
              attribution="PicFreeded">
-
-![11](https://github.com/user-attachments/assets/20d69283-98bf-4b1f-b8cc-9bcd014d5dcd)
-
 
 ## Katya Lezin, Finding Life on Death Row: Profiles of Six Inmates (1999)
 The prisoners’ stories in Finding Life on Death Row are taken from the files of Stephen B. Bright, a lawyer and legal academic best known for representing defendants in capital cases and for challenging inhumane conditions and practices in prisons. Lezin tells the stories of six Death Row prisoners, reconstructing the conditions in which their crimes were committed, the machinations that led to their death sentences, and the impact on their families.
