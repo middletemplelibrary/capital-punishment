@@ -6,9 +6,6 @@
               attribution="The Trustees of the British Museum"
        layout="vertical">
 
-![2](https://github.com/user-attachments/assets/4acbf80a-62dc-4dfa-be04-9e78547df599)
-
-
 # Introduction: ‘The Bloody Code’: Capital Punishment in Law and Art
 This exhibition was curated in collaboration with [Art Responders](https://artresponders.squarespace.com), a community arts organisation that develops free public exhibitions on social justice and human rights themes. The curators are Daryl Stenvoll-Wells, the founding director of Art Responders, and Lauren Cummings, Assistant Librarian at Middle Temple Library, assisted by Dr. Renae Satterley, Head of the Library. 
 <br><br>
@@ -19,8 +16,12 @@ The UN’s 1948 Declaration of Human Rights, including the right to life, steere
 Middle Temple Library’s collection offers a rich historical record of capital punishment law, tracing its evolution across the centuries through legislative documents, historical narratives, and personal accounts. Examining the historical trajectory of the death penalty enables legal professionals to situate modern legal theories of capital punishment law within the broader framework of global human rights legislation.hough its roots go back much further, the 18th century marked the beginning of developed societies’ drive towards universal abolition of the death penalty Since then, most countries have moved in this direction, while others have instead reinforced capital punishment via new methods and justifications. hough its roots go back much further, the 18th century marked the beginning of developed societies’ drive towards universal abolition of the death penal Since then, most countries have moved in this direction, while others have instead reinforced capital punishment via new methods and justifications.
 <br><br>
 <param ve-image 
-      url="486114740-47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/34fc02f2-9c0f-4273-bba6-cfa698fb1ada
              attribution="Zbigniew Tomasz Kotkiewicz">
+
+![1](https://github.com/user-attachments/assets/34fc02f2-9c0f-4273-bba6-cfa698fb1ada)
+
+
 
 ## Sir Julian Knowles, The Abolition of the Death Penalty in the UK: How It Happened and Why It Still Matters (2015)
 The death penalty was effectively abolished in Great Britain by the Murder (Abolition of Death Penalty) Act 1965, which replaced the death penalty for murder with life imprisonment. While the Act left four capital offences (treason, “piracy with violence”, arson in royal dockyards and espionage), no further executions were carried out between 1965 and the final abolition of the death penalty in 1998.
