@@ -1,10 +1,13 @@
 <param ve-config 
        title="Capital Punishment in Law and Art"
        author="Middle Temple Library"
-       banner="https://github.com/user-attachments/assets/60cbfe9d-4c58-4132-ad25-5df54cdb2a49"
+       banner= https://github.com/user-attachments/assets/4acbf80a-62dc-4dfa-be04-9e78547df599
               label="John Laurence, A History of Capital Punishment: with special reference to capital punishment in Great Britain (1932)"
               attribution="The Trustees of the British Museum"
        layout="vertical">
+
+![2](https://github.com/user-attachments/assets/4acbf80a-62dc-4dfa-be04-9e78547df599)
+
 
 # Introduction: ‘The Bloody Code’: Capital Punishment in Law and Art
 This exhibition was curated in collaboration with [Art Responders](https://artresponders.squarespace.com), a community arts organisation that develops free public exhibitions on social justice and human rights themes. The curators are Daryl Stenvoll-Wells, the founding director of Art Responders, and Lauren Cummings, Assistant Librarian at Middle Temple Library, assisted by Dr. Renae Satterley, Head of the Library. 
