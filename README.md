@@ -70,8 +70,11 @@ In one section of this book, Schabas discusses ways in which those condemned to 
 [Schabas, W. 1996. The Death Penalty as Cruel Treatment and Torture: Capital Punishment Challenged in the World's Courts. London: Vision Paperbacks](https://archive.org/details/waitingtodielife0000ross)
 <br><br>
 <param ve-image 
-      url="https://github.com/user-attachments/assets/107dbf02-5ddf-4929-9bf2-aeed08cf9345"
+      url= https://github.com/user-attachments/assets/494b3354-c6f1-4fdb-b0aa-fab4b92bfe09
        license="CC0 1.0">
+
+![3](https://github.com/user-attachments/assets/494b3354-c6f1-4fdb-b0aa-fab4b92bfe09)
+
 
 ## L. Benson ed., The Book of Remarkable Trials and Notorious Characters (1876)
 This work could be considered an early example of a ‘true crime’ publication, with its accounts of sensational trials and criminals that captured the public’s imagination. The story of ‘Half-Hanged Smith’ is one recorded instance where a prisoner survived being hanged. John Smith was sentenced to death for burglary in 1705 and his hanging scheduled for 24th December. He was cut down after fifteen minutes of hanging and quickly revived; his vivid account of the physical experience of being hanged can be read from the bottom of page 30. Smith dodged death twice more and was eventually transported to Virginia.
@@ -99,9 +102,12 @@ Sarah Malcolm was a young woman who worked as a laundress and maid in the Temple
 The case caused a sensation due to Malcolm’s sex and age – she was just 22 at the time of the murders. While she was in prison awaiting her execution, she was sketched by William Hogarth, which further increased her notoriety. As illustrated in this plate from the Newgate Calendar, a large crowd came to watch her execution in Fleet Street in early March 1733. She is said to have been left briefly struggling and kicking the air before her death.
 <br><br>
 <param ve-image 
-      url="https://github.com/user-attachments/assets/08d5ee46-fb04-40ab-a2ec-fb249bdb6b62"
+      url= https://github.com/user-attachments/assets/94182fc4-adad-4e14-be92-f5229f2f16ad
        attribution="The Trustees of the British Museum"
        license="CC BY-NC-SA 4.0">
+
+![4](https://github.com/user-attachments/assets/94182fc4-adad-4e14-be92-f5229f2f16ad)
+
 
 ## George Ryley Scott, The History of Capital Punishment (1950)
 Robert Johnston was executed in Edinburgh in 1818. Johnston had been convicted of robbery and his hanging in Edinburgh’s Lawnmarket was botched: the executioner miscalculated the length of the rope and the table on which Johnston was standing did not break. The watching crowd were so incensed by the sight of Johnston’s struggling that they threw stones at the police and cut him down. When order was restored after the arrival of the military, Johnston was executed at the same place in a similarly brutal manner: the Newgate Calendar describes “his face uncovered, and one of his hands broke loose from the cords […] his fingers convulsively twisting in the noose.”
@@ -145,17 +151,23 @@ The Death Penalty Project is a legal action charity that provides free legal rep
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/3a178a75-435c-47d0-a2b1-9d74f48a9dcd"
+      url= https://github.com/user-attachments/assets/8a42f93b-f09c-4899-b58f-73a1c4d05ea1
        attribution="Crown Copyright"
        license="CC BY 3.0">
+
+![5](https://github.com/user-attachments/assets/8a42f93b-f09c-4899-b58f-73a1c4d05ea1)
+
 
 ## Lord David Pannick KC, Judicial Review of the Death Penalty (1982)
 In some countries where the death penalty is retained, it is imposed as a mandatory punishment for certain crimes. This prevents judges from taking into account any mitigating circumstances when sentencing. Pannick uses examples from Singapore and Pakistan to argue that mandatory sentencing conflicts with the rights guaranteed by a written constitution, as it fails to ensure fair and reasonable treatment under the law.
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/7dce2025-4e37-4da1-9012-847454fcc185"
+      url= https://github.com/user-attachments/assets/6a28a711-c9e0-4d8b-8011-2d13113623af
        license="Not to be copied, saved or stored">
+
+![6](https://github.com/user-attachments/assets/6a28a711-c9e0-4d8b-8011-2d13113623af)
+
 
 ## Mai Sato & Paul Bacon, The Public Opinion Myth: Why Japan Retains the Death Penalty (2015)
 In June 2025, serial killer Takahiro Shiraishi was hanged in Japan, marking the country’s first execution in three years. Conditions on death row in Japan have been heavily criticised by campaigners, as inmates are kept in solitary confinement and are typically only given a few hours’ notice of their execution. The Japanese government surveys the public on the topic every five years, with the most recently available results from March 2025 finding that 83.1% of respondents find the death penalty to be “unavoidable”. In this report, however, Sato and Bacon argue that the public form their opinions on the topic based on limited information and conclude that abolition would be embraced if the government were to change its stance.
@@ -248,8 +260,11 @@ A petition to save Dodd from execution is said to have been signed by so many pe
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/bdb10ef1-828a-47d1-b0dd-00beaf752820"
+      url= https://github.com/user-attachments/assets/e4eae2a5-34fb-42cd-9087-55d1fd2065c8
              attribution="Trustees of the British Museum">
+
+![7](https://github.com/user-attachments/assets/e4eae2a5-34fb-42cd-9087-55d1fd2065c8)
+
 
 # The Other Executioners: Mobs, Juries, Prosecutors & Judges
 Executioners have occasionally recounted their experiences of delivering the ultimate punishment, reflecting the psychological toll of this grim and morally fraught role. While they have generally taken on the final act of the death penalty, others have shared responsibility for adjudicating and administering capital punishment, including lawful and unlawful actors.
@@ -313,8 +328,11 @@ William Burke and William Hare were an infamous pair of murderers based in 19th 
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/314ee06d-e45f-4167-bf1b-a74c07140050"
+      url= https://github.com/user-attachments/assets/40b1373f-9b3a-4ef5-a219-73fd51574e67
              attribution="Trustees of the British Museum">
+
+![8](https://github.com/user-attachments/assets/40b1373f-9b3a-4ef5-a219-73fd51574e67)
+
 
 ## Benjamin Fleury-Steiner, Jurors’ Stories of Death: How America's Death Penalty Invests in Inequality (2004)
 Benjamin Fleury-Steiner’s academic work examines the intersection of inequality, punishment and social control. Jurors’ Stories of Death is a survey of jurors who have served in capital punishment cases, that attempts to unravel the factors that contributed to their decisions in those cases. Fleury-Steiner believes that race is a key factor in capital punishment verdicts and that jurors often fall into a “us-versus-them” pattern of thought, allowing them to retain a sense of moral superiority and justice. Here, he presents a quote from Justice Antonin Scalia that summarises what Fleury-Steiner believes is the overarching theme of death penalty verdicts: punishment for committing the ultimate crime (murder), and a desire to seek revenge on behalf of law-abiding citizens.
@@ -332,7 +350,7 @@ This etching shows the black cap worn by John Duke Coleridge, 1st Baron Coleridg
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/8ebc351a-a3a1-4fee-afdf-48677d42d26b"
+      url= https://github.com/user-attachments/assets/8b089d1e-f5c4-4d41-a483-b098075685ee
        reference="MT/19/POR/152">
 
 # Theories & Satirists
@@ -361,8 +379,11 @@ This satirical drawing dates to 1819. Bank of England notes at this time were in
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/cd3eb8c6-2ffd-4770-b77d-e253ad81f099"
+      url= https://github.com/user-attachments/assets/af7c3c25-6a86-4ec6-8d59-3050e88d23c1
              attribution="The Trustees of the British Museum"
+
+![10](https://github.com/user-attachments/assets/af7c3c25-6a86-4ec6-8d59-3050e88d23c1)
+
 
 ## John Macrae Moir ed., Capital Punishment: based on Professor Mittermaier’s Todesstrafe (1986)
 Carl Joseph Anton Mittermaier spent most of his career as a professor of law and jurisprudence at the University of Heidelberg and was one of Germany’s most prominent legal academics of the 19th century. His treatise on capital punishment, Die Todesstrafe, was published in 1862. This volume, edited by Middle Temple member John Macrae Moir, presents the work in English, with some alterations to provide greater background and context for English readers. Jeremy Bentham’s views on capital punishment are outlined here, as part of a wider section exploring the opinions of several contemporary capital punishment theorists on the topic.
@@ -390,7 +411,7 @@ The Select Committee on Capital Punishment was established in 1929 in response t
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 # Prisoners’ Stories: The View from Inside Death Row
@@ -404,7 +425,7 @@ Some of this collection’s most poignant pages record the ephemera of day-to-da
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## Scott Christianson, Condemned: Inside the Sing Sing Death House (2000)
@@ -413,9 +434,12 @@ Before the death penalty was abolished in New York in 1972, 614 people were exec
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/b0ab1869-75f1-4b34-87fa-41c6e4bf964a"
+      url= https://github.com/user-attachments/assets/20d69283-98bf-4b1f-b8cc-9bcd014d5dcd
               licence="cc0 1.0 Universal"
              attribution="PicFreeded">
+
+![11](https://github.com/user-attachments/assets/20d69283-98bf-4b1f-b8cc-9bcd014d5dcd)
+
 
 ## Katya Lezin, Finding Life on Death Row: Profiles of Six Inmates (1999)
 The prisoners’ stories in Finding Life on Death Row are taken from the files of Stephen B. Bright, a lawyer and legal academic best known for representing defendants in capital cases and for challenging inhumane conditions and practices in prisons. Lezin tells the stories of six Death Row prisoners, reconstructing the conditions in which their crimes were committed, the machinations that led to their death sentences, and the impact on their families.
@@ -427,7 +451,7 @@ After several more appeals in which new evidence was supplied, Haney’s case wa
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## Sunny Jacobs, Stolen Time (2015)
@@ -436,7 +460,7 @@ In 1976, Sonia ‘Sunny’ Jacobs and her partner Jesse Tafero were convicted of
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## Rex v. Roger David Casement (1916)
@@ -446,5 +470,5 @@ This volume contains a record of proceedings in Casement’s trial. The index to
 <br><br>
 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
