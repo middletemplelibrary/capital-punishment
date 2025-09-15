@@ -15,7 +15,6 @@ The UN’s 1948 Declaration of Human Rights, including the right to life, steere
 <br><br>
 Middle Temple Library’s collection offers a rich historical record of capital punishment law, tracing its evolution across the centuries through legislative documents, historical narratives, and personal accounts. Examining the historical trajectory of the death penalty enables legal professionals to situate modern legal theories of capital punishment law within the broader framework of global human rights legislation.hough its roots go back much further, the 18th century marked the beginning of developed societies’ drive towards universal abolition of the death penalty Since then, most countries have moved in this direction, while others have instead reinforced capital punishment via new methods and justifications. hough its roots go back much further, the 18th century marked the beginning of developed societies’ drive towards universal abolition of the death penal Since then, most countries have moved in this direction, while others have instead reinforced capital punishment via new methods and justifications.
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/34fc02f2-9c0f-4273-bba6-cfa698fb1ada
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -26,7 +25,6 @@ The death penalty was effectively abolished in Great Britain by the Murder (Abol
 While the 1965 Act passed in the House of Commons by 355 votes to 170, public opinion was not in favour of abolition and remains divided on the issue to this day. As Sir Julian Knowles discusses in this report, Parliament’s ultimate decision to abolish it was the result of a confluence of factors including several high-profile, controversial cases, and a Labour government that leaned more abolitionist than its opposition and the public itself.
 [Knowles, Julian B. 2015. The Abolition of the Death Penalty in the United Kingdom: How it Happened and Why it Still Matters. London: The Death Penalty Project](https://www.deathpenaltyproject.org/wp-content/uploads/2017/12/DPP-50-Years-on-pp1-68-1.pdf)
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/3abf901b-2f68-46e1-a7be-1566e08b5dc7
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -38,7 +36,6 @@ William Schabas is a Canadian academic who specialises in the fields of internat
 In Appendix II of the book, Schabas presents two articles from the International Covenant on Civil and Political Rights: Article 6, which states that “Every human being has the inherent right to life”, and Article 14, covering the right to a fair and public trial. Despite declaring the inherent right to life, Article 6 does not prohibit the death penalty entirely. It restricts its use to “only for the most serious crimes […] pursuant to a final judgment rendered by a competent court” and forbids its use against children and pregnant women. As of July 2025, 24 states have not become party to the treaty, while 6 have signed but not yet ratified it.
 [Schabas, William A. 2009. The Abolition of the Death Penalty in International Law. Cambridge: Cambridge University Press](https://www.cambridge.org/core/books/abolition-of-the-death-penalty-in-international-law/28291346A4A68C4CA2097E813007EC3A)
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c975f5b6-2500-4740-9076-381988b02705
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -49,7 +46,6 @@ This book offers a new academic perspective on the death penalty: that it is a c
 One such example given is of the 2022 “Year of botched executions”, during which one in three executions in the United States was mishandled. In one case, that of Joe N. James in Alabama, prison staff performing the lethal injection attempted 11 times to inset an IV into his veins, causing serious bruising. An autopsy funded by the non-profit organisation Reprieve US showed an incision indicating that his arm had eventually been cut to expose the vein. It took three hours for James to die.
 [Finley, Laura L. 2024. The Death Penalty as State Crime: Who Can Kill?. London: Routledge](https://www.taylorfrancis.com/books/mono/10.4324/9781003384137/death-penalty-state-crime-laura-finley)
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/891dad56-1305-4842-9ef2-98439092a137
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -60,7 +56,6 @@ Lethal injection is the most common method of execution in the United States. It
 “‘They butchered me back there,’ Demps said. ‘I was in a lot of pain. They cut me in the groin, they cut me in the leg, I was bleeding profusely. This is not an execution, this is murder.’”
 [Rossi, Richard Michael. 2004. Waiting to Die: Life on Death Row. London: Vision Paperbacks](https://archive.org/details/waitingtodielife0000ross)
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -71,7 +66,6 @@ In one section of this book, Schabas discusses ways in which those condemned to 
 “The purpose of capital punishment is not just to rid the community of an unwanted member; it is to mark the community’s denunciation of the gravest of all crimes by subjecting the perpetrator, in the form of law, to the severest of all punishments.”
 [Schabas, W. 1996. The Death Penalty as Cruel Treatment and Torture: Capital Punishment Challenged in the World's Courts. London: Vision Paperbacks](https://archive.org/details/waitingtodielife0000ross)
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/494b3354-c6f1-4fdb-b0aa-fab4b92bfe09
        license="CC0 1.0">
@@ -80,7 +74,6 @@ In one section of this book, Schabas discusses ways in which those condemned to 
 This work could be considered an early example of a ‘true crime’ publication, with its accounts of sensational trials and criminals that captured the public’s imagination. The story of ‘Half-Hanged Smith’ is one recorded instance where a prisoner survived being hanged. John Smith was sentenced to death for burglary in 1705 and his hanging scheduled for 24th December. He was cut down after fifteen minutes of hanging and quickly revived; his vivid account of the physical experience of being hanged can be read from the bottom of page 30. Smith dodged death twice more and was eventually transported to Virginia.
 [Benson ed., L. 1876. The Book of Remarkable Trials and Notorious Characters. London: Reeves and Turner](https://babel.hathitrust.org/cgi/pt?id=uc1.$b292083&seq=38)
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -91,7 +84,6 @@ This Gallup survey from May 1948 demonstrates the strength of feeling on capital
 Recent polling by YouGov (21st July 2025) indicates that the public is somewhat more uncertain than it was in 1948. When asked if they would support the reintroduction of capital punishment for all cases of murder, 46% responded they would oppose it, 36% that they would support it, and 18% were unsure. Just as in 1948, age and gender do not affect the results significantly, but political party plays a notably greater role: 65% of Labour voters would oppose reintroduction, compared to 39% of Conservative voters.
 [Christoph, J.B. 1962. Capital Punishment and British Politics: the British Movement to Abolish the Death Penalty 1945-57. Chicago: University of Chicago Press](https://archive.org/details/capitalpunishmen0000unse_k3e7/page/n7/mode/2up)
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -103,7 +95,6 @@ Sarah Malcolm was a young woman who worked as a laundress and maid in the Temple
 <br><br>
 The case caused a sensation due to Malcolm’s sex and age – she was just 22 at the time of the murders. While she was in prison awaiting her execution, she was sketched by William Hogarth, which further increased her notoriety. As illustrated in this plate from the Newgate Calendar, a large crowd came to watch her execution in Fleet Street in early March 1733. She is said to have been left briefly struggling and kicking the air before her death.
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/94182fc4-adad-4e14-be92-f5229f2f16ad
        attribution="The Trustees of the British Museum"
@@ -112,7 +103,6 @@ The case caused a sensation due to Malcolm’s sex and age – she was just 22 a
 ## George Ryley Scott, The History of Capital Punishment (1950)
 Robert Johnston was executed in Edinburgh in 1818. Johnston had been convicted of robbery and his hanging in Edinburgh’s Lawnmarket was botched: the executioner miscalculated the length of the rope and the table on which Johnston was standing did not break. The watching crowd were so incensed by the sight of Johnston’s struggling that they threw stones at the police and cut him down. When order was restored after the arrival of the military, Johnston was executed at the same place in a similarly brutal manner: the Newgate Calendar describes “his face uncovered, and one of his hands broke loose from the cords […] his fingers convulsively twisting in the noose.”
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -129,7 +119,6 @@ One of the volumes here discusses Norway’s refusal to re-institute the death p
 The United Nations General Assembly has adopted several resolutions calling for an international moratorium on capital punishment since 2007. These resolutions are not binding, and call on states that retain the death penalty to suspend its use with a view to abolition. This table lists the states that voted against the fourth such resolution in 2012. Since then there have been six further resolutions; the most recent in 2024 saw 32 countries vote against the resolution, a reduction of 10 from 2012.
 [Scherdin ed, L. 2014. Capitol Punishment: A Hazard to a Sustainable Criminal Justice System? Chicago: University of Chicago Press](https://www.taylorfrancis.com/books/edit/10.4324/9781315570808/capital-punishment-lill-scherdin)
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -138,7 +127,6 @@ The United Nations General Assembly has adopted several resolutions calling for 
 One argument for capital punishment is that it acts as a deterrent to the most serious crimes like murder. Several studies have attempted to determine whether this is the case, but problems arise when comparing countries with and without the death penalty as wider socio-economic factors may strongly influence crime rates and often cannot be directly compared. Generally, though, studies have not shown capital punishment to be an effective deterrent. These tables from a 1983 study present the homicide rates in 14 different jurisdictions before and after the abolition of the death penalty; they do not show a consistent effect across the countries.
 [Simon, R.J. 2002.  A Comparative Analysis of Capital Punishment. London: Bloomsbury Academic.](https://books.google.co.uk/books/about/A_Comparative_Analysis_of_Capital_Punish.html?id=SpZhEQAAQBAJ&redir_esc=y)
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -146,7 +134,6 @@ One argument for capital punishment is that it acts as a deterrent to the most s
 ## Edward Fitzgerald CBE KC and Sir Keir Starmer KC, A Guide to Sentencing in Capital Cases (2007)
 The Death Penalty Project is a legal action charity that provides free legal representation to people facing the death penalty around the world. Since its establishment in 1990 it has fought several significant cases that have contributed to the abolition of capital punishment in Caribbean countries. This document, written for the Project in 2007, serves as a practical sentencing guide for judges and lawyers in jurisdictions that retain the death penalty, including where it is no longer a mandatory sentence.
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/8a42f93b-f09c-4899-b58f-73a1c4d05ea1
        attribution="Crown Copyright"
@@ -155,7 +142,6 @@ The Death Penalty Project is a legal action charity that provides free legal rep
 ## Lord David Pannick KC, Judicial Review of the Death Penalty (1982)
 In some countries where the death penalty is retained, it is imposed as a mandatory punishment for certain crimes. This prevents judges from taking into account any mitigating circumstances when sentencing. Pannick uses examples from Singapore and Pakistan to argue that mandatory sentencing conflicts with the rights guaranteed by a written constitution, as it fails to ensure fair and reasonable treatment under the law.
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/6a28a711-c9e0-4d8b-8011-2d13113623af
        license="Not to be copied, saved or stored">
@@ -164,7 +150,6 @@ In some countries where the death penalty is retained, it is imposed as a mandat
 In June 2025, serial killer Takahiro Shiraishi was hanged in Japan, marking the country’s first execution in three years. Conditions on death row in Japan have been heavily criticised by campaigners, as inmates are kept in solitary confinement and are typically only given a few hours’ notice of their execution. The Japanese government surveys the public on the topic every five years, with the most recently available results from March 2025 finding that 83.1% of respondents find the death penalty to be “unavoidable”. In this report, however, Sato and Bacon argue that the public form their opinions on the topic based on limited information and conclude that abolition would be embraced if the government were to change its stance.
 [Sato, M. and Bacon, P. 2002. The Public Opinion Myth: Why Japan Retains the Death Penalty. London: The Death Penalty Project.](https://www.deathpenaltyproject.org/wp-content/uploads/2017/12/The-Public-Opinion-Myth.pdf)
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -176,7 +161,6 @@ In the United States, South Africa, and other nations with histories of codified
 <br><br>
 Many stories and statistics in the Library’s collections document known miscarriages of justice, reinforcing the central argument against capital punishment: that the death penalty exposes societies’ systemic injustices more than it functions as a direct response to, or deterrent against, crime.
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -185,7 +169,6 @@ Many stories and statistics in the Library’s collections document known miscar
 This table presents the numbers of wrongful convictions found at retrial in the United States (at the time of publication). While clear variations can be seen between states, almost one quarter of defendants in capital cases sent for retrial were then found not guilty, highlighting the clear and significant risk that an innocent person could be executed. 
 [Westervelt, S.D. and Humphrey, S.A. eds. 2002. Wrongly Convicted: Perspectives on Failed Justice. New Brunswick: Rutgers University Press.](https://archive.org/details/wronglyconvicted00newb)
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -194,7 +177,6 @@ This table presents the numbers of wrongful convictions found at retrial in the 
 Machinery of Death is a collection of essays on the death penalty in the United States that illustrate deep flaws and issues with the capital punishment system. In this essay, Stephen B. Bright presents data that highlights racial prejudice and disparities in how the death penalty has been imposed in the US. He finds not only that African Americans are more likely to receive the death penalty, but that juries are more likely to impose this penalty where a murder victim was white. This is despite African Americans making up a higher proportion of victims overall. 
 [Dow, D.R. and Dow, M. eds. 2002. Machinery of Death: The Reality of America's Death Penalty Regime. New York: Routledge.](https://www.taylorfrancis.com/books/edit/10.4324/9780203951989/machinery-death-christopher-hitchens-mark-dow-david-dow) 
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -202,7 +184,6 @@ Machinery of Death is a collection of essays on the death penalty in the United 
 ## Hugo Bedau and Michael Radelet, Miscarriages of Justice in Potentially Capital Cases (1987)
 This article from the Stanford Law Review presents 350 capital and potentially capital cases from the United States in which the defendants (many of whom had been sentenced to death) were later found to be innocent. The sample cases presented on these pages include an instance of inadequate legal representation for a defendant who could not speak English, and several cases that illustrate the role racial politics can play in capital verdicts.
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -211,7 +192,6 @@ This article from the Stanford Law Review presents 350 capital and potentially c
 Sister Helen Prejean is a Catholic religious nun who has been working with inmates on Death Row since the early 1980s. In The Death of Innocents, Prejean focuses on the cases of Joseph Roger O’Dell and Dobie Gillis Williams, both of whom she accompanied to their executions – and both of whom she believes to have been innocent. Prejean uses withheld evidence to argue their innocence, demonstrates the roles played by factors like race, poverty, politicking and publicity in capital convictions, and ultimately challenges the moral core of the death penalty itself by asking how we can ever justify the execution of the innocent
 [Prejean, H. 2005. The Death of Innocents: an Eyewitness Account of Wrongful Executions. Westervelt, S.D. and Humphrey, S.A. eds. 2002. Wrongly Convicted: Perspectives on Failed Justice. New Brunswick: Rutgers University Press.](https://archive.org/details/wronglyconvicted00newb)
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -221,7 +201,6 @@ Earl Washington Jr spent 18 years in prison, 9 of those on Death Row, for the ra
 After years of attempts to appeal, new tests found no trace of Washington’s DNA on the forensic evidence from the crime scene. Edds uses Washington’s case to demonstrate the potential for miscarriages of justice in the capital punishment system, arguing that many more “expendable men” – those living on the margins of society – are likely to have been wrongly prosecuted and executed over the years.
 [Edds, M. 2003. An Expendable Man: The Near-Execution of Earl Washignton, Jr. New York: NYU Press.](https://books.google.co.uk/books/about/An_Expendable_Man.html?id=pC4TCgAAQBAJ&redir_esc=y)
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -231,7 +210,6 @@ In Chapter 4 of this book Perlin argues that instead of being considered a mitig
 Organisations such as the American Bar Association and the American Psychiatric Association have called for a ban on the death penalty for defendants with significant mental illness, and a 2014 poll found that Americans did not favour the use of the death penalty in such cases.  While some defendants may be considered mentally incompetent, such that they are unable to grasp the gravity and consequences of their actions, it is difficult to determine the level at which severe mental illness tips into this category. As society’s understanding of mental illness continues to evolve, it remains to be seen whether the attitude towards the death penalty in such cases will too.
 [Perlin, M.L. 2013. Mental Disability and the Death Penalty: The Shame of the States. London: Bloomsbury Publishing PLC](https://books.google.co.uk/books/about/Mental_Disability_and_the_Death_Penalty.html?id=V9m41sjtXlwC&redir_esc=y)
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -240,7 +218,6 @@ Organisations such as the American Bar Association and the American Psychiatric 
 White Mercy is a historical and contemporary study of capital punishment in South Africa that focuses on official acts of mercy and reprieves. Through an examination of statistics, testimony and judges’ reports, Turrell explores how race and sex influenced the outcomes of death penalty cases. Women were often granted reprieves due to the belief that they were the ‘weaker sex’, while conversely, black South Africans were not extended the same mercy despite being seen as the ‘weaker race’. This concept of race also saw several white South Africans executed, because they were believed to be “degenerates” who had the so-called characteristics of the ‘weaker race’.
 [Turrell, R.V. 2004. White Mercy: A Study of the Death Penalty in South Africa. Westport: Praeger.](https://archive.org/details/whitemercystudyo0000turr)
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -249,7 +226,6 @@ White Mercy is a historical and contemporary study of capital punishment in Sout
 William Dodd was a writer and Anglican clergyman who lived an extravagant lifestyle. His attempts to continue his fashionable life in London left him in serious financial trouble, and in February 1777 he forged a bond in the name of a friend and ex-pupil, the Earl of Chesterfield, to clear his debt. The Earl discovered the forgery, and Dodd was arrested and sentenced to death. 
 A petition to save Dodd from execution is said to have been signed by so many people that it reached 37 pages. His supporters wrote letters to newspapers, and the writer Samuel Johnson and the Lord Mayor of the City of London attempted to secure clemency for him. Ultimately this was denied, and Dodd was hanged on 27th June 1777. The perceived harshness of his sentence contributed to a shift in public opinion regarding the death penalty, and forgery was eventually removed as a capital offence by the Forgery, Abolition of Punishment of Death Act 1832. 
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/e4eae2a5-34fb-42cd-9087-55d1fd2065c8
              attribution="Trustees of the British Museum">
@@ -263,7 +239,6 @@ While such public displays are rare today, citizens may still express their desi
 <br><br>
 In the U.S. legal system, elected prosecutors may be driven by political incentives to secure convictions in capital cases. This has contributed to instances of prosecutorial misconduct, including evidence suppression, coerced confessions, and wrongful conviction. Judges in capital cases may also wield outsized influence, and memoirs from capital punishment advocates on the bench reveal how personal prejudices may have shaped past verdicts.
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -273,7 +248,6 @@ George T. Davis was a prominent defence lawyer based in San Francisco. Over his 
 <br><br>
 “To Davis, an execution is a legal murder […] His dedication to this belief can perhaps best be shown by the fact that never has a person charged with a capital offense been refused counsel by Davis, even though this has often meant travelling from one end of the world to the other, more often than not at Davis’ own personal expense.”
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -286,7 +260,6 @@ In his retirement, Cartin’s view on capital punishment shifted, and he wrote a
 “Human error, inequities, bias¬es and per¬son¬al ide¬olo¬gies cre¬ate the prob¬lems that have caused my rejec¬tion of the death penal¬ty. Because these frail¬ties will not mag¬i-cal¬ly van¬ish, cap¬i¬tal pun¬ish¬ment can¬not be imple¬ment¬ed with any sense of bal¬ance or fair¬ness, thus it must be abolished.”
 [Lasseter, D. 2004. Perfect Justice: A True Crime Book. Santa Ana: Seven Locks Press.](https://archive.org/details/perfectjusticetr0000lass)
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -297,7 +270,6 @@ Albert Pierrepoint was an English hangman who carried out over 400 executions. A
 “I do not now believe that any one of the hundreds of executions I carried out has in any way acted as a deterrent against future murder. Capital punishment, in my view, achieved nothing except revenge.”
 [Pierrepoint, A. 1998. Executioner, Pierrepoint. London: Coronet Books.](https://archive.org/details/executionerpierr0000pier)
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -306,7 +278,6 @@ Albert Pierrepoint was an English hangman who carried out over 400 executions. A
 In Who Owns Death?, Lifton and Mitchell explore the opinions, feelings and motivations of those involved in the death penalty process, from death row prison wardens to the relatives of murder victims. A section on jurors is enlightening as to how their experiences affect them both during and after trials. Some jurors may believe at the beginning of a trial that they would be willing to impose capital punishment, but then experience conflicted feelings when faced with the reality of condemning the person in front of them to death. Other jurors report feeling emotionally troubled or regretful about their decisions for many years afterwards, making clear that the system of capital punishment can leave psychological scars on all involved.
 [Lifton, R.J. 2000. Who Owns Death: Capital Punishment, the American Conscience, and the End of Executions. New York: Morrow.](https://archive.org/details/whoownsdeathcapi00robe)
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -314,7 +285,6 @@ In Who Owns Death?, Lifton and Mitchell explore the opinions, feelings and motiv
 ## Alex F. Young, The Encyclopaedia of Scottish Executions, 1750-1963 (1998)
 William Burke and William Hare were an infamous pair of murderers based in 19th century Edinburgh. After selling the body of one of Hare’s lodgers to the anatomy professor Robert Knox, they turned to murder as a source of further corpses to sell. At trial, Hare was offered immunity if he would testify against Burke; Burke was found guilty and sentenced to death by hanging, while Hare was released. Burke’s execution was attended by an unruly crowd which Young estimates at 35,000. A minor riot also ensued, when members of the public attempted to attend the lecture at which Burke’s body was dissected, having been ordered to be donated to medical science. His skeleton remains at the Anatomical Museum of the University of Edinburgh.
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/40b1373f-9b3a-4ef5-a219-73fd51574e67
              attribution="Trustees of the British Museum">
@@ -323,7 +293,6 @@ William Burke and William Hare were an infamous pair of murderers based in 19th 
 Benjamin Fleury-Steiner’s academic work examines the intersection of inequality, punishment and social control. Jurors’ Stories of Death is a survey of jurors who have served in capital punishment cases, that attempts to unravel the factors that contributed to their decisions in those cases. Fleury-Steiner believes that race is a key factor in capital punishment verdicts and that jurors often fall into a “us-versus-them” pattern of thought, allowing them to retain a sense of moral superiority and justice. Here, he presents a quote from Justice Antonin Scalia that summarises what Fleury-Steiner believes is the overarching theme of death penalty verdicts: punishment for committing the ultimate crime (murder), and a desire to seek revenge on behalf of law-abiding citizens.
 [Fleury-Steiner, B.D. 2004. Jurors' Stories of Death: How America's Death Penalty Invests in Inequality. Ann Arbor: University of Michigan Press](https://press.umich.edu/Books/J/Jurors-Stories-of-Death)
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -333,7 +302,6 @@ The black cap was traditionally worn by judges in England and Wales when pronoun
 <br><br>
 This etching shows the black cap worn by John Duke Coleridge, 1st Baron Coleridge, a judge and Liberal politician. Coleridge was Called to the Bar by Middle Temple in 1846 and eventually became Lord Chief Justice of England and Wales of England in 1880. While he believed that capital punishment was justified in some circumstances, he shared in a letter to his father dated 3rd November 1864 that, “I hope to live to see public executions, at any rate, done away with; in these ages there does not occur to me a single real argument in their favour.” He did indeed live to see this happen, as the Capital Punishment Amendment Act of 1868 mandated that those sentenced to death be executed inside the prison where they were held, bringing an end to the grim spectacle and unruly crowds of public executions.
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/08362f2f-6380-4518-94d6-39cd4d736dcc
        reference="MT/19/POR/152">
@@ -345,7 +313,6 @@ Some of the most impactful British publications against capital punishment have 
 <br><br>
 One of the 20th century’s strongest abolitionist voices came from a Jewish Hungarian who migrated to the UK in 1940. Drawing on personal experience of totalitarianism and imprisonment, Arthur Koestler CBE advanced the case for abolition through powerful articles, novels and essays. He went on to establish Koestler Arts, the UK’s oldest prison arts charity.
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -354,7 +321,6 @@ One of the 20th century’s strongest abolitionist voices came from a Jewish Hun
 Charles Duff’s A Handbook on Hanging was first published in 1928, then revised, expanded and republished several more times; the editions displayed are from 1954 and 1961. A satirical examination of the “fine art of execution”, it confronts its readers with the grim details of the execution process, as in this recounting of the executions of Julius and Ethel Rosenberg. In the section on the necessary calculations needed to execute a man by hanging, Duff contrasts the banal and methodical requirements of the hangman’s role with the profound consequences of his actions.
 [Duff, C. 1948. A New Handbook on Hanging. London: Andrew Melrose.](https://archive.org/details/newhandbookonhan0000char)
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -362,7 +328,6 @@ Charles Duff’s A Handbook on Hanging was first published in 1928, then revised
 ## John Laurence, A History of Capital Punishment: with special reference to capital punishment in Great Britain (1932)
 This satirical drawing dates to 1819. Bank of England notes at this time were inconsistently made, making them easily forged. Forgery was a capital crime, and anyone caught trying to use a forged note could be convicted. The artist, George Cruickshank, comments on the harshness of this punishment in his brutal drawing. Some people were instead convicted of the lesser crime of “being in possession of forged notes”, the penalty for which was transportation to Australia; this is represented in the drawing by the four ships surrounding the woman seated like Britannia. The note is signed “J. Ketch” in reference to a notorious executioner employed by King Charles II.
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/af7c3c25-6a86-4ec6-8d59-3050e88d23c1
              attribution="The Trustees of the British Museum"
@@ -371,7 +336,6 @@ This satirical drawing dates to 1819. Bank of England notes at this time were in
 Carl Joseph Anton Mittermaier spent most of his career as a professor of law and jurisprudence at the University of Heidelberg and was one of Germany’s most prominent legal academics of the 19th century. His treatise on capital punishment, Die Todesstrafe, was published in 1862. This volume, edited by Middle Temple member John Macrae Moir, presents the work in English, with some alterations to provide greater background and context for English readers. Jeremy Bentham’s views on capital punishment are outlined here, as part of a wider section exploring the opinions of several contemporary capital punishment theorists on the topic.
 [Moir, J.M. ed. 1865. Capital Punishment: Based on Professor Mittermaier's Todesstrafe. London: Smith Elder and co](https://archive.org/details/capitalpunishme03schagoog/page/n6/mode/2up)
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -382,7 +346,6 @@ Arthur Koestler was Born in Hungary to a Jewish family in 1905. He then studied 
 The abolition of capital punishment was one of many political causes espoused by Koestler. His experience as a death row prisoner during the Spanish Civil War influenced his key work on the topic, Reflections on Hanging, which was published in 1956 and was highly critical of the British capital punishment system. Hanged by the Neck is a collaboration with Cecil Rolph Hewitt (writing here as C.H. Rolph), a journalist and former police officer, that continues in this vein. On the pages displayed here from Reflections on Hanging, Koestler illustrates the strength of Parliament’s opposition to abolishing the death penalty for shoplifting in the early 19th century.
 [Koestler, A. 1956. Reflections on Hanging. London: Gollancz.](https://archive.org/details/reflectionsonhan0000unse/page/n3/mode/2up)
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -391,7 +354,6 @@ The abolition of capital punishment was one of many political causes espoused by
 The Select Committee on Capital Punishment was established in 1929 in response to a resolution in the House of Commons calling for abolition. This reflected the growing abolitionist movement in the United Kingdom, particularly among increasingly prominent Labour politicians. The argument that capital punishment was not a deterrent to murder, as reflected in the statistics from countries where the death penalty had already been abolished, was new and influential. The Select Committee recommended at its conclusion in 1930 that the death penalty be suspended for an experimental period of five years, but this did not come to pass. 
 [Select Committee on Capital Punishment. 1930. Report from the Select Committee on Capital Punishment together with the Proceedings of the Committee, and the Minutes of evidence, taken before the Select Committee on Capital Punishment in 1929-1930. London: Stationary Office.](https://babel.hathitrust.org/cgi/pt?id=uc1.$b47213&seq=9)
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -405,7 +367,6 @@ Later publications present direct accounts of prisoners’ lives, from childhood
 <br><br>
 Some of this collection’s most poignant pages record the ephemera of day-to-day life on death row: letters and telegrams, lists describing last meal requests, drawings and personal belongings. These telling minutiae complicate the dehumanisation of death row prisoners, betraying the humanity of some of the world’s most publicly demonised figures.
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -414,7 +375,6 @@ Some of this collection’s most poignant pages record the ephemera of day-to-da
 Before the death penalty was abolished in New York in 1972, 614 people were executed at Sing Sing prison – more than any other prison in the United States. Christianson’s book uses archival materials to reconstruct the stories of some of those prisoners. These materials include photographs of the prisoners on their arrival at the prison, extracts from their letters to each other, and details of escape attempts.
 [Christianson, S. 2000. Condemned: Inside the Sing Sing Death House. New York: NYU Press.](https://archive.org/details/condemnedinsides0000chri)
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/20d69283-98bf-4b1f-b8cc-9bcd014d5dcd
               licence="cc0 1.0 Universal"
@@ -428,7 +388,6 @@ One such story is that of Judy Haney, whose abusive husband Jerry was murdered i
 After several more appeals in which new evidence was supplied, Haney’s case was settled and her sentence revised to life without the possibility of parole. Haney’s case and the others in Finding Life on Death Row illustrate both the desperate conditions in which some capital crimes are committed and the myriad ways in which the justice system risks failing defendants in their right to a fair trial
 [Lezin, K. 1999. Finding Life on Death Row: Profiles of Six Inmates. Boston: Northeastern University Press.](https://archive.org/details/findinglifeondea0000lezi)
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -437,7 +396,6 @@ After several more appeals in which new evidence was supplied, Haney’s case wa
 In 1976, Sonia ‘Sunny’ Jacobs and her partner Jesse Tafero were convicted of murder and sentenced to death in Florida. Their convictions were based on the testimony of Walter Rhodes, another defendant who received a life sentence in exchange for his co-operation but who changed his story several times, and who physical evidence identified as the most likely culprit. Jacobs and Tafero maintained their innocence and after 17 years in prison, Jacobs was released following a plea deal in 1992 which allowed her to maintain her innocence. Tafero died two years prior in a horrific botched execution. Jacobs moved to Ireland and established the Sunny Centre, an organisation to support the wrongly convicted. The play The Exonerated tells the story of Jacobs and five other wrongly convicted prisoners; it premiered in 2000 and ran for over 600 performances, winning multiple awards.
 [Jacobs, S. 2007. Stolen Time: The Inspiring Story of an Innocent Woman Condemned to Death.](https://archive.org/details/stolentimeinspir0000jaco)
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -447,7 +405,6 @@ Sir Roger Casement was a diplomat and Irish nationalist who was executed for tre
 <br><br>
 This volume contains a record of proceedings in Casement’s trial. The index to exhibits records the objects that were shown as evidence in court. They include an image of the boat in which Casement landed at Tralee Bay; objects that were found alongside the boat including weapons and maps; and a train ticket from Berlin to Wilhelmshaven, where Casement boarded the submarine.
 <br><br>
-
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
