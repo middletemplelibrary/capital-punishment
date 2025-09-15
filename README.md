@@ -413,5 +413,3 @@ This volume contains a record of proceedings in Casement’s trial. The index to
              attribution="Reproduced courtesy of the National Library of Ireland"
               reference="KE9">
 
-![1](https://github.com/user-attachments/assets/7abab676-3611-431e-86fb-58755a88647e)
-
