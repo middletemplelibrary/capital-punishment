@@ -15,6 +15,7 @@ The UN’s 1948 Declaration of Human Rights, including the right to life, steere
 <br><br>
 Middle Temple Library’s collection offers a rich historical record of capital punishment law, tracing its evolution across the centuries through legislative documents, historical narratives, and personal accounts. Examining the historical trajectory of the death penalty enables legal professionals to situate modern legal theories of capital punishment law within the broader framework of global human rights legislation.hough its roots go back much further, the 18th century marked the beginning of developed societies’ drive towards universal abolition of the death penalty Since then, most countries have moved in this direction, while others have instead reinforced capital punishment via new methods and justifications. hough its roots go back much further, the 18th century marked the beginning of developed societies’ drive towards universal abolition of the death penal Since then, most countries have moved in this direction, while others have instead reinforced capital punishment via new methods and justifications.
 <br><br>
+
 <param ve-image 
       url= https://github.com/user-attachments/assets/34fc02f2-9c0f-4273-bba6-cfa698fb1ada
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -25,6 +26,7 @@ The death penalty was effectively abolished in Great Britain by the Murder (Abol
 While the 1965 Act passed in the House of Commons by 355 votes to 170, public opinion was not in favour of abolition and remains divided on the issue to this day. As Sir Julian Knowles discusses in this report, Parliament’s ultimate decision to abolish it was the result of a confluence of factors including several high-profile, controversial cases, and a Labour government that leaned more abolitionist than its opposition and the public itself.
 [Knowles, Julian B. 2015. The Abolition of the Death Penalty in the United Kingdom: How it Happened and Why it Still Matters. London: The Death Penalty Project](https://www.deathpenaltyproject.org/wp-content/uploads/2017/12/DPP-50-Years-on-pp1-68-1.pdf)
 <br><br>
+
 <param ve-image 
       url= https://github.com/user-attachments/assets/3abf901b-2f68-46e1-a7be-1566e08b5dc7
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -36,6 +38,7 @@ William Schabas is a Canadian academic who specialises in the fields of internat
 In Appendix II of the book, Schabas presents two articles from the International Covenant on Civil and Political Rights: Article 6, which states that “Every human being has the inherent right to life”, and Article 14, covering the right to a fair and public trial. Despite declaring the inherent right to life, Article 6 does not prohibit the death penalty entirely. It restricts its use to “only for the most serious crimes […] pursuant to a final judgment rendered by a competent court” and forbids its use against children and pregnant women. As of July 2025, 24 states have not become party to the treaty, while 6 have signed but not yet ratified it.
 [Schabas, William A. 2009. The Abolition of the Death Penalty in International Law. Cambridge: Cambridge University Press](https://www.cambridge.org/core/books/abolition-of-the-death-penalty-in-international-law/28291346A4A68C4CA2097E813007EC3A)
 <br><br>
+
 <param ve-image 
       url= https://github.com/user-attachments/assets/c975f5b6-2500-4740-9076-381988b02705
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -46,6 +49,7 @@ This book offers a new academic perspective on the death penalty: that it is a c
 One such example given is of the 2022 “Year of botched executions”, during which one in three executions in the United States was mishandled. In one case, that of Joe N. James in Alabama, prison staff performing the lethal injection attempted 11 times to inset an IV into his veins, causing serious bruising. An autopsy funded by the non-profit organisation Reprieve US showed an incision indicating that his arm had eventually been cut to expose the vein. It took three hours for James to die.
 [Finley, Laura L. 2024. The Death Penalty as State Crime: Who Can Kill?. London: Routledge](https://www.taylorfrancis.com/books/mono/10.4324/9781003384137/death-penalty-state-crime-laura-finley)
 <br><br>
+
 <param ve-image 
       url= https://github.com/user-attachments/assets/891dad56-1305-4842-9ef2-98439092a137
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -56,6 +60,7 @@ Lethal injection is the most common method of execution in the United States. It
 “‘They butchered me back there,’ Demps said. ‘I was in a lot of pain. They cut me in the groin, they cut me in the leg, I was bleeding profusely. This is not an execution, this is murder.’”
 [Rossi, Richard Michael. 2004. Waiting to Die: Life on Death Row. London: Vision Paperbacks](https://archive.org/details/waitingtodielife0000ross)
 <br><br>
+
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -66,6 +71,7 @@ In one section of this book, Schabas discusses ways in which those condemned to 
 “The purpose of capital punishment is not just to rid the community of an unwanted member; it is to mark the community’s denunciation of the gravest of all crimes by subjecting the perpetrator, in the form of law, to the severest of all punishments.”
 [Schabas, W. 1996. The Death Penalty as Cruel Treatment and Torture: Capital Punishment Challenged in the World's Courts. London: Vision Paperbacks](https://archive.org/details/waitingtodielife0000ross)
 <br><br>
+
 <param ve-image 
       url= https://github.com/user-attachments/assets/494b3354-c6f1-4fdb-b0aa-fab4b92bfe09
        license="CC0 1.0">
@@ -74,6 +80,7 @@ In one section of this book, Schabas discusses ways in which those condemned to 
 This work could be considered an early example of a ‘true crime’ publication, with its accounts of sensational trials and criminals that captured the public’s imagination. The story of ‘Half-Hanged Smith’ is one recorded instance where a prisoner survived being hanged. John Smith was sentenced to death for burglary in 1705 and his hanging scheduled for 24th December. He was cut down after fifteen minutes of hanging and quickly revived; his vivid account of the physical experience of being hanged can be read from the bottom of page 30. Smith dodged death twice more and was eventually transported to Virginia.
 [Benson ed., L. 1876. The Book of Remarkable Trials and Notorious Characters. London: Reeves and Turner](https://babel.hathitrust.org/cgi/pt?id=uc1.$b292083&seq=38)
 <br><br>
+
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -84,6 +91,7 @@ This Gallup survey from May 1948 demonstrates the strength of feeling on capital
 Recent polling by YouGov (21st July 2025) indicates that the public is somewhat more uncertain than it was in 1948. When asked if they would support the reintroduction of capital punishment for all cases of murder, 46% responded they would oppose it, 36% that they would support it, and 18% were unsure. Just as in 1948, age and gender do not affect the results significantly, but political party plays a notably greater role: 65% of Labour voters would oppose reintroduction, compared to 39% of Conservative voters.
 [Christoph, J.B. 1962. Capital Punishment and British Politics: the British Movement to Abolish the Death Penalty 1945-57. Chicago: University of Chicago Press](https://archive.org/details/capitalpunishmen0000unse_k3e7/page/n7/mode/2up)
 <br><br>
+
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -95,6 +103,7 @@ Sarah Malcolm was a young woman who worked as a laundress and maid in the Temple
 <br><br>
 The case caused a sensation due to Malcolm’s sex and age – she was just 22 at the time of the murders. While she was in prison awaiting her execution, she was sketched by William Hogarth, which further increased her notoriety. As illustrated in this plate from the Newgate Calendar, a large crowd came to watch her execution in Fleet Street in early March 1733. She is said to have been left briefly struggling and kicking the air before her death.
 <br><br>
+
 <param ve-image 
       url= https://github.com/user-attachments/assets/94182fc4-adad-4e14-be92-f5229f2f16ad
        attribution="The Trustees of the British Museum"
@@ -103,6 +112,7 @@ The case caused a sensation due to Malcolm’s sex and age – she was just 22 a
 ## George Ryley Scott, The History of Capital Punishment (1950)
 Robert Johnston was executed in Edinburgh in 1818. Johnston had been convicted of robbery and his hanging in Edinburgh’s Lawnmarket was botched: the executioner miscalculated the length of the rope and the table on which Johnston was standing did not break. The watching crowd were so incensed by the sight of Johnston’s struggling that they threw stones at the police and cut him down. When order was restored after the arrival of the military, Johnston was executed at the same place in a similarly brutal manner: the Newgate Calendar describes “his face uncovered, and one of his hands broke loose from the cords […] his fingers convulsively twisting in the noose.”
 <br><br>
+
 <param ve-image 
       url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -114,10 +124,6 @@ However, the United States and Japan are also among the 55 remaining nations tha
 <br><br>
 One of the volumes here discusses Norway’s refusal to re-institute the death penalty after a horrific 2011 crime by an anti-immigrant extremist.  The country’s steadfast commitment to prevention and rehabilitation —and its resistance to retributive impulses — are seen by some as naïve and by others as admirable. Reactions to this punishment could serve as a bellwether for public attitudes toward the death penalty worldwide.
 <br><br>
-
-<param ve-image 
-      url= https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
-             attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## Lilli Scherdin ed., Capital Punishment: A Hazard to a Sustainable Criminal Justice System? (2014)
 The United Nations General Assembly has adopted several resolutions calling for an international moratorium on capital punishment since 2007. These resolutions are not binding, and call on states that retain the death penalty to suspend its use with a view to abolition. This table lists the states that voted against the fourth such resolution in 2012. Since then there have been six further resolutions; the most recent in 2024 saw 32 countries vote against the resolution, a reduction of 10 from 2012.
