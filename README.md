@@ -332,8 +332,11 @@ Charles Duff’s A Handbook on Hanging was first published in 1928, then revised
 This satirical drawing dates to 1819. Bank of England notes at this time were inconsistently made, making them easily forged. Forgery was a capital crime, and anyone caught trying to use a forged note could be convicted. The artist, George Cruickshank, comments on the harshness of this punishment in his brutal drawing. Some people were instead convicted of the lesser crime of “being in possession of forged notes”, the penalty for which was transportation to Australia; this is represented in the drawing by the four ships surrounding the woman seated like Britannia. The note is signed “J. Ketch” in reference to a notorious executioner employed by King Charles II.
 <br><br>
 <param ve-image 
-      url= https://github.com/user-attachments/assets/af7c3c25-6a86-4ec6-8d59-3050e88d23c1
+      url= https://github.com/user-attachments/assets/0c3731ac-3cd7-43cf-82c2-2448c8bb0a28
              attribution="The Trustees of the British Museum"
+
+![13](https://github.com/user-attachments/assets/0c3731ac-3cd7-43cf-82c2-2448c8bb0a28)
+
 
 ## John Macrae Moir ed., Capital Punishment: based on Professor Mittermaier’s Todesstrafe (1986)
 Carl Joseph Anton Mittermaier spent most of his career as a professor of law and jurisprudence at the University of Heidelberg and was one of Germany’s most prominent legal academics of the 19th century. His treatise on capital punishment, Die Todesstrafe, was published in 1862. This volume, edited by Middle Temple member John Macrae Moir, presents the work in English, with some alterations to provide greater background and context for English readers. Jeremy Bentham’s views on capital punishment are outlined here, as part of a wider section exploring the opinions of several contemporary capital punishment theorists on the topic.
