@@ -399,6 +399,10 @@ Later publications present direct accounts of prisoners’ lives, from childhood
 Some of this collection’s most poignant pages record the ephemera of day-to-day life on death row: letters and telegrams, lists describing last meal requests, drawings and personal belongings. These telling minutiae complicate the dehumanisation of death row prisoners, betraying the humanity of some of the world’s most publicly demonised figures.
 <br><br>
 
+<param ve-image 
+      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+             attribution="Zbigniew Tomasz Kotkiewicz">
+
 ## Scott Christianson, Condemned: Inside the Sing Sing Death House (2000)
 Before the death penalty was abolished in New York in 1972, 614 people were executed at Sing Sing prison – more than any other prison in the United States. Christianson’s book uses archival materials to reconstruct the stories of some of those prisoners. These materials include photographs of the prisoners on their arrival at the prison, extracts from their letters to each other, and details of escape attempts.
 [Christianson, S. 2000. Condemned: Inside the Sing Sing Death House. New York: NYU Press.](https://archive.org/details/condemnedinsides0000chri)
@@ -434,4 +438,9 @@ In 1976, Sonia ‘Sunny’ Jacobs and her partner Jesse Tafero were convicted of
 ## Rex v. Roger David Casement (1916)
 Sir Roger Casement was a diplomat and Irish nationalist who was executed for treason in 1916. Raised in Dublin, he joined the British Colonial Service and worked in the Congo and Peru, where he investigated and wrote reports on horrific human rights abuses in the rubber industry. These experiences led to Casement’s growing distrust of colonialism; he retired from the Colonial Service in 1913 and joined the Irish Volunteers. He organised the transport of weapons from Germany to Ireland for the Easter Rising in 1916, but the weapons were intercepted and Casement sailed to Ireland in a German submarine in an attempt to stop the rising. He was arrested in April 1916, found guilty of treason and executed on 3rd August. During his trial, documents purported to be his personal diaries were circulated which contained details of homosexual activity; there is debate among historians as to whether these diaries were forged.
 <br><br>
-This volume contains a record of proceedings in Casement’s trial. The index to exhibits records the objects that were shown as evidence in court. They include an image of the boat in which Casement landed at Tralee Bay; objects that were found alongside the boat including weapons and maps; and a train ticket from Berlin to Wilhelmshaven, where Casement boarded the submarine. 
+This volume contains a record of proceedings in Casement’s trial. The index to exhibits records the objects that were shown as evidence in court. They include an image of the boat in which Casement landed at Tralee Bay; objects that were found alongside the boat including weapons and maps; and a train ticket from Berlin to Wilhelmshaven, where Casement boarded the submarine.
+<br><br>
+
+<param ve-image 
+      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+             attribution="Zbigniew Tomasz Kotkiewicz">
