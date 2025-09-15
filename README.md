@@ -32,7 +32,6 @@ While the 1965 Act passed in the House of Commons by 355 votes to 170, public op
 
 ## William Schabas, The Abolition of the Death Penalty in International Law (3rd ed., 2002)
 William Schabas is a Canadian academic who specialises in the fields of international criminal and human rights law. In this acclaimed study, he outlines the progress in international law towards abolition, discussing its treatment in international criminal law, human rights law and the United Nations human rights system.  
-
 <br><br>
 In Appendix II of the book, Schabas presents two articles from the International Covenant on Civil and Political Rights: Article 6, which states that “Every human being has the inherent right to life”, and Article 14, covering the right to a fair and public trial. Despite declaring the inherent right to life, Article 6 does not prohibit the death penalty entirely. It restricts its use to “only for the most serious crimes […] pursuant to a final judgment rendered by a competent court” and forbids its use against children and pregnant women. As of July 2025, 24 states have not become party to the treaty, while 6 have signed but not yet ratified it.
 [Schabas, William A. 2009. The Abolition of the Death Penalty in International Law. Cambridge: Cambridge University Press](https://www.cambridge.org/core/books/abolition-of-the-death-penalty-in-international-law/28291346A4A68C4CA2097E813007EC3A)
@@ -41,9 +40,6 @@ In Appendix II of the book, Schabas presents two articles from the International
       url= https://github.com/user-attachments/assets/c975f5b6-2500-4740-9076-381988b02705
              attribution="Zbigniew Tomasz Kotkiewicz">
 
-![1](https://github.com/user-attachments/assets/c975f5b6-2500-4740-9076-381988b02705)
-
-
 ## Laura Finley, The Death Penalty as State Crime: Who Can Kill? (2024)
 This book offers a new academic perspective on the death penalty: that it is a crime committed by states against their citizens, as it infringes on their human rights. Focusing on the United States, Finley argues that the state is aware of flaws in the process such as racial bias, inadequate representation and arbitrariness, and that torturous methods are used in the application of the death penalty. 
 <br><br>
@@ -51,8 +47,11 @@ One such example given is of the 2022 “Year of botched executions”, during w
 [Finley, Laura L. 2024. The Death Penalty as State Crime: Who Can Kill?. London: Routledge](https://www.taylorfrancis.com/books/mono/10.4324/9781003384137/death-penalty-state-crime-laura-finley)
 <br><br>
 <param ve-image 
-      url="https://github.com/user-attachments/assets/47952855-8a68-4aa9-967e-c8e00bfb2ab2"
+      url= https://github.com/user-attachments/assets/891dad56-1305-4842-9ef2-98439092a137
              attribution="Zbigniew Tomasz Kotkiewicz">
+
+![1](https://github.com/user-attachments/assets/891dad56-1305-4842-9ef2-98439092a137)
+
 
 ## Richard Michael Rossi, Waiting to Die: Life on Death Row (2004)
 Lethal injection is the most common method of execution in the United States. It was first approved in Oklahoma and Texas in 1977 and was seen as a more humane method of execution than electrocution or hanging. There have however been several instances of botched executions involving the injection. The drugs are administered intravenously, and issues can arise where a vein cannot be easily located (such as when prisoners are intravenous drug users); in these cases, a scalpel is used to cut the arm or leg to find a vein, often without anaesthesia. In Waiting to Die, Rossi quotes from a New York Times article from 9th June 2000, which recounts the case of Bennie Demps, who was subjected to such a ‘cutdown’: 
