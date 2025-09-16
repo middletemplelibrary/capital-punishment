@@ -75,8 +75,14 @@ This work could be considered an early example of a ‘true crime’ publication
 [Benson ed., L. 1876. The Book of Remarkable Trials and Notorious Characters. London: Reeves and Turner](https://babel.hathitrust.org/cgi/pt?id=uc1.$b292083&seq=38)
 <br><br>
 
-<param ve-iframe
-       src="https://babel.hathitrust.org/cgi/pt?id=uc1.$b292083&seq=8](https://babel.hathitrust.org/cgi/pt?id=uc1.$b292083&seq=8">
+<param ve-image
+src="https://github.com/user-attachments/assets/527e7331-f282-4707-a27a-38dd278a"
+attribution="HathiTrust"
+license="Public Domain">
+
+![trials](https://github.com/user-attachments/assets/527e7331-f282-4707-a27a-38dd278a9c90)
+
+
 
 
 ## James B. Christoph, Capital Punishment and British Politics: the British Movement to Abolish the Death Penalty 1945-57 (1962)
