@@ -76,9 +76,9 @@ This work could be considered an early example of a ‘true crime’ publication
 <br><br>
 
 <param ve-image
-src="https://github.com/user-attachments/assets/527e7331-f282-4707-a27a-38dd278a"
-attribution="HathiTrust"
-license="Public Domain">
+       url="https://github.com/user-attachments/assets/527e7331-f282-4707-a27a-38dd278a"
+       attribution="HathiTrust"
+       license="Public Domain">
 
 ![trials](https://github.com/user-attachments/assets/527e7331-f282-4707-a27a-38dd278a9c90)
 
