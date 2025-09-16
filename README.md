@@ -77,8 +77,7 @@ This work could be considered an early example of a ‘true crime’ publication
 
 <param ve-image
        url="https://github.com/user-attachments/assets/527e7331-f282-4707-a27a-38dd278a9c90"
-       attribution="HathiTrust"
-       license="Public Domain">
+       attribution="HathiTrust">
 
 ## James B. Christoph, Capital Punishment and British Politics: the British Movement to Abolish the Death Penalty 1945-57 (1962)
 This Gallup survey from May 1948 demonstrates the strength of feeling on capital punishment at the time, and the extent to which the public did not favour abolition. The number of respondents who chose “Don’t Know” is remarkably low for all groups, and even supporters of the Labour government of the time tended to disapprove of the experiment.
