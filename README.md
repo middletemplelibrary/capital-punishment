@@ -76,7 +76,7 @@ This work could be considered an early example of a ‘true crime’ publication
 <br><br>
 
 <param ve-iframe
-       src="https://hdl.handle.net/2027/uc1.$b292083?urlappend](https://hdl.handle.net/2027/uc1.$b292083?urlappend">
+       src="https://babel.hathitrust.org/cgi/pt?id=uc1.$b292083&seq=8](https://babel.hathitrust.org/cgi/pt?id=uc1.$b292083&seq=8">
 
 
 ## James B. Christoph, Capital Punishment and British Politics: the British Movement to Abolish the Death Penalty 1945-57 (1962)
