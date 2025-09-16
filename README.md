@@ -74,9 +74,10 @@ In one section of this book, Schabas discusses ways in which those condemned to 
 This work could be considered an early example of a ‘true crime’ publication, with its accounts of sensational trials and criminals that captured the public’s imagination. The story of ‘Half-Hanged Smith’ is one recorded instance where a prisoner survived being hanged. John Smith was sentenced to death for burglary in 1705 and his hanging scheduled for 24th December. He was cut down after fifteen minutes of hanging and quickly revived; his vivid account of the physical experience of being hanged can be read from the bottom of page 30. Smith dodged death twice more and was eventually transported to Virginia.
 [Benson ed., L. 1876. The Book of Remarkable Trials and Notorious Characters. London: Reeves and Turner](https://babel.hathitrust.org/cgi/pt?id=uc1.$b292083&seq=38)
 <br><br>
-<param ve-image 
-      url="https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81
-             attribution="Zbigniew Tomasz Kotkiewicz">
+
+<param ve-iframe
+       src="https://hdl.handle.net/2027/uc1.$b292083?urlappend](https://hdl.handle.net/2027/uc1.$b292083?urlappend">
+
 
 ## James B. Christoph, Capital Punishment and British Politics: the British Movement to Abolish the Death Penalty 1945-57 (1962)
 This Gallup survey from May 1948 demonstrates the strength of feeling on capital punishment at the time, and the extent to which the public did not favour abolition. The number of respondents who chose “Don’t Know” is remarkably low for all groups, and even supporters of the Labour government of the time tended to disapprove of the experiment.
@@ -158,7 +159,7 @@ In June 2025, serial killer Takahiro Shiraishi was hanged in Japan, marking the 
       url="https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81"
              attribution="Zbigniew Tomasz Kotkiewicz">
 
-# Disproportionality, Diminished Responsibility, & Other Miscarriages of Justice
+## Disproportionality, Diminished Responsibility, & Other Miscarriages of Justice
 The history of death penalty legislation reveals numerous undeniable injustices, often rooted in the social prejudices and flawed penal systems of their time. In 18th century Britain, political opponents of the ruling class and people of lower social status were disproportionately targeted for the death penalty, while the wealthy were often able to escape judgement for similar crimes.
 <br><br>
 In the United States, South Africa, and other nations with histories of codified racial discrimination, racial minorities have been far more likely to receive capital verdicts. Globally, women perceived as violating established norms of gendered behaviour are more likely to receive the death penalty, even in cases with evidence of gender-based violence such as domestic abuse. Although individuals with mental illness may struggle to understand their rights or the consequences of their pleas, the US has no official ban on their execution, and rates of serious mental illness and intellectual disabilities are higher among people on death row than in the general population.
@@ -310,7 +311,7 @@ This etching shows the black cap worn by John Duke Coleridge, 1st Baron Coleridg
       url="https://github.com/user-attachments/assets/08362f2f-6380-4518-94d6-39cd4d736dcc"
        reference="MT/19/POR/152">
 
-# Theories & Satirist
+## Theories & Satirist
 At its height in the 18th century, the English penal system prescribed the death penalty for over 220 offences, earning it the grim moniker ‘The Bloody Code’. However, the global proliferation of capital punishment during this era provoked growing opposition, exemplified by Cesare Beccaria’s 1767 essay 'On Crimes and Punishments'. A century later, German Jurist Carl Joseph Anton Mittermaier’s influential Capital Punishment (1865) presented an in-depth analysis of the legal, moral and social implications of the death penalty.
 <br><br>
 Some of the most impactful British publications against capital punishment have come in the form of art, including songs, illustrations, and creative writing. Several 18th century execution ballads embedded social commentary, expressing critical views of the practice by exposing dubious justifications and depicting its gory methods. Satirical illustrations tied capital punishment to underlying injustices against the working class and women. The trend continued into the 20th century with increasingly creative approaches such as Charles Duff’s A Handbook on Hanging.
