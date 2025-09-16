@@ -85,8 +85,8 @@ Recent polling by YouGov (21st July 2025) indicates that the public is somewhat 
 [Christoph, J.B. 1962. Capital Punishment and British Politics: the British Movement to Abolish the Death Penalty 1945-57. Chicago: University of Chicago Press](https://archive.org/details/capitalpunishmen0000unse_k3e7/page/n7/mode/2up)
 <br><br>
 
-<param ve-iframe
-       src="https://archive.org/details/capitalpunishmen0000unse_k3e7">
+       <param ve-iframe
+       src="https://archive.org/details/capitalpunishmen0000unse_k3e7](https://archive.org/details/capitalpunishmen0000unse_k3e7?view=theater">
 
 
 ## The Newgate Calendar, vol III
