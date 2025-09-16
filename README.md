@@ -86,7 +86,7 @@ Recent polling by YouGov (21st July 2025) indicates that the public is somewhat 
 <br><br>
 
 <param ve-iframe
-       src="https://archive.org/details/capitalpunishmen0000unse_k3e7](https://archive.org/details/capitalpunishmen0000unse_k3e7?view=theater">
+       src="https://archive.org/details/capitalpunishmen0000unse_k3e7/page/n5/mode/2up](https://archive.org/details/capitalpunishmen0000unse_k3e7/page/n5/mode/2up?view=theater">
 
 
 ## The Newgate Calendar, vol III
